@@ -22,8 +22,7 @@ redirect_from:
 <tr>
     <td>OS</td>
     <td>
-        <a href="https://xubuntu.org/" title="Linux / Xubuntu">
-            <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg' alt='Linux Xubuntu' height='12'>
+        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
         </a>
         <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg' alt='MacOS' height='32'>
         <a href="https://github.com/zsh-users/zsh" title="zsh with oh-my-zsh">
