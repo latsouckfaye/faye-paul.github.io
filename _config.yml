@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Boris's Homepage"
+title                    : "Paul's Homepage"
 title_separator          : "-"
-name                     : &name "Boris Meinardus"
+name                     : &name "Paul FAYE"
 description              : &description "personal description"
-url                      : https://sudo-Boris.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://latsouckfaye.github.io/faye-paul.github.io # https://sudo-Boris.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sudo-Boris/sudo-Boris.github.io"
+repository               : "latsouckfaye.github.io/faye-paul.github.io/" #"sudo-Boris/sudo-Boris.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Boris Meinardus"
-  avatar           : "Profile_pic2.png"
+  name             : "Paul FAYE"
+  avatar           : "cvPhoto1.jpg"
   bio              : "Multi-Modal Learning \nsoon under Prof. Marcus Rohrbach"
-  location         : "Berlin, Germany"
-  employer         : "Fraunhofer Heinrich Hertz Institute"
+  location         : "Montpellier, France"
+  employer         : "University of Montpellier"
   pubmed           : 
   googlescholar    : 
-  email            : "boris.meinardus@gmail.com"
+  email            : "paul-aime-latsouck.faye@umontpellier.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,24 +96,24 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "sudo-Boris"
+  github           : "latsouckfaye" #"sudo-Boris"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "boris-meinardus-ba2302177"
+  linkedin         : "https://www.linkedin.com/in/paul-aim%C3%A9-faye-b31161165" #"boris-meinardus-ba2302177"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "BorisMeinardus"
+  twitter          : #"BorisMeinardus"
   vine             :
   weibo            :
   xing             :
-  youtube          : "@borismeinardus"
+  youtube          : #"@borismeinardus"
   wikipedia        :
 
 
