@@ -25,6 +25,7 @@ redirect_from:
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
         </a> 
+        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
         </a>
         <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
@@ -41,11 +42,17 @@ redirect_from:
 <tr>
     <td>Tools</td>
     <td>
+        <a href="https://www.jetbrains.com/webstorm/" title="WebStorm">
+            <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/webstorm.svg' alt='WebStorm icon' height='32'>
+        </a>
+        <a href="https://npmjs.com" title="npm">
+            <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg' alt='NPM Icon' height='32'>
+        </a>
         <a href="https://git-scm.org" title="git">
-            <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg' alt='git icon' width="30" height="30">
+            <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg' alt='git icon' height='32'>
         </a>
         <a href="https://github.com" title="GitHub">
-            <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg' alt='GitHub icon' width="30" height="30">
+            <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg' alt='GitHub icon' height='32'>
         </a>
     </td>
 </tr>
