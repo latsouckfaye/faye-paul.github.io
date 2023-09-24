@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Paul FAYE"
-  avatar           : "ProfileGit.jpg"
+  avatar           : "cvPhoto1.jpg"
   bio              : "Data Engineer"
   location         : "Montpellier, France"
   employer         : "University of Montpellier"
@@ -100,7 +100,7 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/paul-aim%C3%A9-faye-b31161165" #"boris-meinardus-ba2302177"
   orcid            : 
@@ -109,11 +109,11 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"BorisMeinardus"
+  twitter          : # "BorisMeinardus"
   vine             :
   weibo            :
   xing             :
-  youtube          : #"@borismeinardus"
+  youtube          : # "@borismeinardus"
   wikipedia        :
 
 
