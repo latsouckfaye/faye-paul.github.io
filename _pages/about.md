@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello there 👋, I'm Paul!"
+title: "👋 Hello there, I'm Paul!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-<h4> I am a Data scientist </h4>
+- 👨🏻‍💻 I am a Data Engineer, at the end of a Ph. D. thesis in Applied mathematics.
 
-- :man_student: Currently PhD student in Biostatistics,
-- 🔭 I'm working with spatial statistical tools and data,
-- 🌱 trying to automate coral reef habitats mapping using statistical learning algorithms.
+- 🔭 Last 03 years, I have worked on spatial analysis of seafloor data and built predictive models for geomorphological maps.
+
+- :heart: Passionate by Data Analysis and web development, I enjoy programming and automating routine tasks on web interfaces in my sparse time.​ I like to draw, write short narrative texts/poems, read, go for a run, travel to meet people and discover new places. 
+
 <h5 align="left"> My main data science tools :</h5>
 <p align="left"> <img width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"/>
