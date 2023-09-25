@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Summary
-![Illustration of combining vision and language modalities](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/cvPhoto1.jpg?raw=true){: .align-right width="300px"}
+
 - 👨🏻‍💻 I am a Data Engineer at the end of a Ph. D. thesis in Applied mathematics.
 
 - 🔭 Last 03 years, I have worked on spatial analysis of seafloor data and built predictive models for geomorphological maps.
@@ -53,14 +53,17 @@ redirect_from:
     <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50" height="50"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-        <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/sas.svg?raw=true" alt="sas" width="50" height="50"/>
+        <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/sas.svg?raw=true" alt="sas" width="30" height="30"/>
     </td>
 </tr>
 
 <td>Database</td>
     <td>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
-        <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg' alt='git icon' width="50" height="50" />
+        <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg' alt='postgresql' width="50" height="50" />
+        <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/access.png?raw=true" alt="access" width="30" height="30"/>
+        <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/sqlserver.svg?raw=true" alt="sqlserver" width="30" height="30"/>
+        <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/PhpMyAdmin.svg?raw=true" alt="PhpMyAdmin" width="30" height="30"/>
     </td>
 <tr>
     <td>Web</td>
@@ -114,8 +117,7 @@ Create VBA macros that customize cover letters according to information of a job
 
 ### 20th International Workshop in Spatial Econometrics and Statistics (SEW2022), Lille-France.
 
-[SEW2022](../images/posterSEW.png)
-
+![SEW2022](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/posterSEW.png?raw=true)
 
 
 
