@@ -9,8 +9,7 @@ redirect_from:
 ---
 
 ## Summary
-![Illustration of combining vision and language modalities]
-(https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/cvPhoto1.jpg?raw=true){: .align-right width="300px"}
+![Illustration of combining vision and language modalities](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/cvPhoto1.jpg?raw=true){: .align-right width="300px"}
 - 👨🏻‍💻 I am a Data Engineer at the end of a Ph. D. thesis in Applied mathematics.
 
 - 🔭 Last 03 years, I have worked on spatial analysis of seafloor data and built predictive models for geomorphological maps.
