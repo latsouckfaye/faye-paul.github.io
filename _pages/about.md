@@ -27,7 +27,7 @@ redirect_from:
 
 ## 20th International Workshop in Spatial Econometrics and Statistics (SEW2022), Lille-France.
 
-<img src='../images/posterSEW.png'>
+<img src='/images/posterSEW.png'>
 
 
 # Programming
@@ -37,10 +37,18 @@ redirect_from:
 <tr>
     <td>Data science</td>
     <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="50" height="50"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50" height="50"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
     </td>
 </tr>
+
+<td>Database</td>
+    <td>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
+        <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg' alt='git icon' width="50" height="50" />
+        <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg' alt='GitHub icon' width="50" height="50"/>
+        
+    </td>
 <tr>
     <td>Web</td>
     <td>
@@ -54,8 +62,10 @@ redirect_from:
 <tr>
     <td>Tools</td>
     <td>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="50" height="50"/>
         <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg' alt='git icon' width="50" height="50" />
         <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg' alt='GitHub icon' width="50" height="50"/>
+        
     </td>
 </tr>
 </tbody>
