@@ -18,35 +18,34 @@ redirect_from:
 
 ## Main skills
 
-### Machine Learning 
+### Data science competences
+
++ Machine Learning ​
+
+  - Data cleaning/wrangling​
+
+     - [] dyplr, tidyr |Numpy, Pandas, etc.​
+
+  - Missing data imputations​
+
+  - Regression, Classification, Clustering​
+
+     - [] caret | Scikit Learn, Scipy​
+
+  - Data Visualization​
+
+     - [] ggplot2, plotly, shiny | Matplotlib​
+
++ Big data​
+
+  - High Performance Computing (HPC)​
+
+  - Parallel computing​
+
+     - [] Parallel, Multidyplr​
 
 
-### High Performance Computing / Big Data
-
-
-### Web development
-
-
-## Key projects
-
-Creation a website for event equipment leasing.​
-
-Creation of a RShiny web application for quantitative data analysis.​
-
-Development of a R package spatial data analysis and visualization.​
-
-Create VBA macros that customize cover letters according to information of a job offer. ​
-
-## Communications
-
-### 54e journées de Statistiques
-
-### 20th International Workshop in Spatial Econometrics and Statistics (SEW2022), Lille-France.
-
-<img src="https://raw.githubusercontent.com/latsouckfaye/faye-paul.github.io/tree/master/images/posterSEW.png">
-
-
-## Programming
+### Core competences
 
 <table>
 <tbody>
@@ -86,6 +85,29 @@ Create VBA macros that customize cover letters according to information of a job
 </tr>
 </tbody>
 </table>
+
+## Certificates 
+
+## Key projects
+
+Creation a website for event equipment leasing.​
+
+Creation of a RShiny web application for quantitative data analysis.​
+
+Development of a R package spatial data analysis and visualization.​
+
+Create VBA macros that customize cover letters according to information of a job offer. ​
+
+## Communications
+
+### 54e journées de Statistiques
+
+### 20th International Workshop in Spatial Econometrics and Statistics (SEW2022), Lille-France.
+
+<img src="https://raw.githubusercontent.com/latsouckfaye/faye-paul.github.io/tree/master/images/posterSEW.png">
+
+
+
 
 
 
