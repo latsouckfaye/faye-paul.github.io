@@ -26,8 +26,6 @@ redirect_from:
 
      - R: dyplr, tidyr. | Python: Numpy, Pandas.
 
-  - Missing data imputations​
-
   - Regression, Classification, Clustering​
 
      - R: caret, randomforest, cluster, etc. | Python: Scikit Learn, Scipy​.
@@ -38,12 +36,13 @@ redirect_from:
 
 + Big data​
 
-  - High Performance Computing (HPC)​
-
   - Parallel computing​
 
-     - R: Parallel, Multidyplr​.
+     - R: Parallel, Multidyplr​. | Python:
 
+- High Performance Computing (HPC)​
+
+     - Cluster meso@LR
 
 ### Core competences
 
@@ -54,7 +53,7 @@ redirect_from:
     <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50" height="50"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-        <img src="sas.svg" alt="sas" width="50" height="50"/>
+        <img src="https://github.com/latsouckfaye/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" alt="sas" width="50" height="50"/>
     </td>
 </tr>
 
