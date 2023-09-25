@@ -53,7 +53,7 @@ redirect_from:
     <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50" height="50"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-        <img src="https://github.com/latsouckfaye/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" alt="sas" width="50" height="50"/>
+        <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/sas.svg?raw=true" alt="sas" width="50" height="50"/>
     </td>
 </tr>
 
