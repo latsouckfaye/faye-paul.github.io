@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋 Hello there, I'm Paul!"
+title: "Portofolio"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## Portofolio
+# Summary
 
 - 👨🏻‍💻 I am a Data Engineer at the end of a Ph. D. thesis in Applied mathematics.
 
@@ -20,7 +20,7 @@ redirect_from:
 
 
 
-# Key projects
+## Key projects
 
 
 # Communications
@@ -29,7 +29,7 @@ redirect_from:
 
 ## 20th International Workshop in Spatial Econometrics and Statistics (SEW2022), Lille-France.
 
-<img src="/images/posterSEW.png">
+<img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/posterSEW.png">
 
 
 # Programming
@@ -41,7 +41,7 @@ redirect_from:
     <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50" height="50"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-        <img src="/image/sas.svg" alt="sas" width="50" height="50"/>
+        <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/sas.svg" alt="sas" width="50" height="50"/>
     </td>
 </tr>
 
