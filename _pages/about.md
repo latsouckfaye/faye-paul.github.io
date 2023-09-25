@@ -32,7 +32,7 @@ redirect_from:
 
   - Data Visualization​
 
-     - R: ggplot2, plotly, ggspatial | Python: Matplotlib​.
+     - R: ggplot2, plotly, ggspatial. | Python: Matplotlib​.
 
 + Big data​
 
@@ -78,7 +78,7 @@ redirect_from:
 <tr>
     <td>Tools</td>
     <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original-wordmark.svg" alt="rstudio" width="50" height="50"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg?raw=true" alt="rstudio" width="50" height="50"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="50" height="50"/>
         <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg' alt='git icon' width="50" height="50" />
         <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg' alt='GitHub icon' width="50" height="50"/>
@@ -117,7 +117,7 @@ Create VBA macros that customize cover letters according to information of a job
 
 ### 20th International Workshop in Spatial Econometrics and Statistics (SEW2022), Lille-France.
 
-![SEW2022](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/posterSEW.png?raw=true){: width="50px"}
+![SEW2022](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/posterSEW.png?raw=true){: width="100px"}
 
 
 
