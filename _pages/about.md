@@ -27,7 +27,7 @@ redirect_from:
 
 ## 20th International Workshop in Spatial Econometrics and Statistics (SEW2022), Lille-France.
 
-<img src='/images/posterSEW.png'>
+<img src='../images/posterSEW.png'>
 
 
 # Programming
