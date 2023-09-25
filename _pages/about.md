@@ -16,12 +16,26 @@ redirect_from:
 
 - ❤️ Passionate by web development, I enjoy programming and automating routine tasks on web interfaces in my sparse time.​ I like to draw, write short narrative texts/poems, read, go for a run, travel to meet people and discover new places. 
 
-# Skills
+# Main skills
 
+## Machine Learning 
+
+
+## High Performance Computing / Big Data
+
+
+## Web development
 
 
 ## Key projects
 
+Creation a website for event equipment leasing.​
+
+Creation of a RShiny web application for quantitative data analysis.​
+
+Development of a R package spatial data analysis and visualization.​
+
+Create VBA macros that customize cover letters according to information of a job offer. ​
 
 # Communications
 
@@ -29,7 +43,7 @@ redirect_from:
 
 ## 20th International Workshop in Spatial Econometrics and Statistics (SEW2022), Lille-France.
 
-<img src="https://github.com/latsouckfaye/faye-paul.github.io/tree/master/images/posterSEW.png">
+<img src="https://raw.githubusercontent.com/latsouckfaye/faye-paul.github.io/tree/master/images/posterSEW.png">
 
 
 # Programming
