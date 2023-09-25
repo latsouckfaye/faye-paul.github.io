@@ -24,17 +24,17 @@ redirect_from:
 
   - Data cleaning/wrangling​
 
-     - [] dyplr, tidyr |Numpy, Pandas, etc.​
+     - dyplr, tidyr |Numpy, Pandas.
 
   - Missing data imputations​
 
   - Regression, Classification, Clustering​
 
-     - [] caret | Scikit Learn, Scipy​
+     - caret. | Scikit Learn, Scipy​.
 
   - Data Visualization​
 
-     - [] ggplot2, plotly, shiny | Matplotlib​
+     - ggplot2, plotly, shiny. | Matplotlib​.
 
 + Big data​
 
@@ -42,7 +42,7 @@ redirect_from:
 
   - Parallel computing​
 
-     - [] Parallel, Multidyplr​
+     - Parallel, Multidyplr​.
 
 
 ### Core competences
@@ -86,8 +86,19 @@ redirect_from:
 </tbody>
 </table>
 
-## Certificates 
+### Certificates 
 
++ SQL pour la Data Science de A à Z (analyse de data réelles)​
+
++ SAS PROGRAMMING 1 : ESSENTIALS​
+
++ Python 3 : Formation intensive à la programmation​
+
++ Machine Learning with Scikit Learn​
+
++ R Package development​
+
+​
 ## Key projects
 
 Creation a website for event equipment leasing.​
