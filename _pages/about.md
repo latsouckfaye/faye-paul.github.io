@@ -29,7 +29,7 @@ redirect_from:
 
 ## 20th International Workshop in Spatial Econometrics and Statistics (SEW2022), Lille-France.
 
-<img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/posterSEW.png">
+<img src="https://github.com/latsouckfaye/faye-paul.github.io/tree/master/images/posterSEW.png">
 
 
 # Programming
@@ -63,7 +63,7 @@ redirect_from:
 <tr>
     <td>Tools</td>
     <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original-wordmark.svg" alt="mysql" width="50" height="50"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original-wordmark.svg" alt="rstudio" width="50" height="50"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="50" height="50"/>
         <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg' alt='git icon' width="50" height="50" />
         <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg' alt='GitHub icon' width="50" height="50"/>
