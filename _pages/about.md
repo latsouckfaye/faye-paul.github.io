@@ -61,8 +61,7 @@ redirect_from:
     <td>Statistics</td>
     <td>
         <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/EViews.png?raw=true" alt="Eviews" width="50" height="50"/>
-        <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Gretl.svg?raw=true" alt="Gretl" width="50" height="50"/>
-         <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Gretl.png?raw=true" alt="Gretl" width="50" height="50"/>
+        <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Gretl.png?raw=true" alt="Gretl" width="50" height="50"/>
         <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Geoda.png?raw=true" alt="Geoda" width="50" height="50"/>
     </td>
 </tr>
@@ -104,6 +103,13 @@ redirect_from:
         
     </td>
 </tr>
+<tr>
+    <td>Communication</td>
+    <td>
+        <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/LaTeX.png?raw=true" alt="Latex" width="50" height="50"/>
+        <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/powerpoint.png?raw=true" alt="Powerpoint" width="50" height="50"/>
+    </td>
+</tr>
 </tbody>
 </table>
 
@@ -130,7 +136,7 @@ Development of a R package spatial data analysis and visualization.​
 
 Create VBA macros that customize cover letters according to information of a job offer. ​
 
-## Communications
+## Recent communications
 
 ### 54e journées de Statistiques
 
