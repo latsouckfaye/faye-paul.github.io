@@ -57,6 +57,24 @@ redirect_from:
     </td>
 </tr>
 
+<tr>
+    <td>Statistics</td>
+    <td>
+        <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/EViews.png?raw=true" alt="Eviews" width="50" height="50"/>
+        <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Gretl.svg?raw=true" alt="Gretl" width="50" height="50"/>
+         <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Gretl.png?raw=true" alt="Gretl" width="50" height="50"/>
+        <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Geoda.png?raw=true" alt="Geoda" width="50" height="50"/>
+    </td>
+</tr>
+
+<tr>
+    <td>Data Visualization</td>
+    <td>
+        <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/tableau.jpg?raw=true" alt="Tableau" width="50" height="50"/>
+    </td>
+</tr>
+
+<tr>
 <td>Database</td>
     <td>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
@@ -65,6 +83,7 @@ redirect_from:
         <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/sqlserver.svg?raw=true" alt="sqlserver" width="50" height="50"/>
         <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/PhpMyAdmin.png?raw=true" alt="PhpMyAdmin" width="50" height="50"/>
     </td>
+</tr>
 <tr>
     <td>Web</td>
     <td>
@@ -76,7 +95,7 @@ redirect_from:
     </td>
 </tr>
 <tr>
-    <td>Tools</td>
+    <td>IDE</td>
     <td>
         <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg?raw=true" alt="rstudio" width="50" height="50"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="50" height="50"/>
@@ -117,7 +136,7 @@ Create VBA macros that customize cover letters according to information of a job
 
 ### 20th International Workshop in Spatial Econometrics and Statistics (SEW2022), Lille-France.
 
-![SEW2022](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/posterSEW.png?raw=true){: .center width="200px"}
+![SEW2022](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/posterSEW.png?raw=true){: .center width="400px"}
 
 
 
