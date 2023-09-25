@@ -54,7 +54,7 @@ redirect_from:
     <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50" height="50"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-        <img src="/blob/master/images/sas.svg" alt="sas" width="50" height="50"/>
+        <img src="sas.svg" alt="sas" width="50" height="50"/>
     </td>
 </tr>
 
@@ -115,6 +115,7 @@ Create VBA macros that customize cover letters according to information of a job
 
 ### 20th International Workshop in Spatial Econometrics and Statistics (SEW2022), Lille-France.
 
+![SEW2022](../images/posterSEW.png)
 <img src="https://raw.githubusercontent.com/latsouckfaye/faye-paul.github.io/tree/master/images/posterSEW.png">
 
 
