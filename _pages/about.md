@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Summary
-![Illustration of combining vision and language modalities](/images/image_to_text_vis.png)
+![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"}
 - 👨🏻‍💻 I am a Data Engineer at the end of a Ph. D. thesis in Applied mathematics.
 
 - 🔭 Last 03 years, I have worked on spatial analysis of seafloor data and built predictive models for geomorphological maps.
