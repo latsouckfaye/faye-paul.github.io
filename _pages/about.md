@@ -88,9 +88,9 @@ redirect_from:
 
 ### Certificates 
 
-+ [SQL pour la Data Science de A à Z (analyse de data réelles)]​(https://www.udemy.com/share/101uky3@BfgbUp39JbQhqc74XinDrco7_aIppr_KtVYXYI7vntQCCh85tv_BQlUFXzt4e3wP/)
++ [SQL pour la Data Science de A à Z (analyse de data réelles)](https://www.udemy.com/share/101uky3@BfgbUp39JbQhqc74XinDrco7_aIppr_KtVYXYI7vntQCCh85tv_BQlUFXzt4e3wP/)
 
-+ [SAS PROGRAMMING 1 : ESSENTIALS]​(https://www.youracclaim.com/badges/d7723949-77c3-4e2a-a5cc-c36af5a7dbbe/public_url)
++ [SAS Programming : Essentials](https://www.youracclaim.com/badges/d7723949-77c3-4e2a-a5cc-c36af5a7dbbe/public_url)
 
 + [Python 3 : Formation intensive à la programmation​](https://udemy.com/certificate/UC-be63f4ca-6da8-44f4-8690-d2d559326d07)
 
