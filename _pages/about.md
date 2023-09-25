@@ -14,8 +14,23 @@ redirect_from:
 
 - ❤️ Passionate by Data Analysis and web development, I enjoy programming and automating routine tasks on web interfaces in my sparse time.​ I like to draw, write short narrative texts/poems, read, go for a run, travel to meet people and discover new places. 
 
+# Skills
 
-## Programming
+
+
+# Key projects
+
+
+# Communications
+
+## 54e journées de Statistiques
+
+## 20th International Workshop in Spatial Econometrics and Statistics (SEW2022), Lille-France.
+
+<img src='/images/posterSEW.png'>
+
+
+# Programming
 
 <table>
 <tbody>
@@ -41,7 +56,6 @@ redirect_from:
     <td>
         <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg' alt='git icon' width="50" height="50" />
         <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg' alt='GitHub icon' width="50" height="50"/>
-        </a>
     </td>
 </tr>
 </tbody>
