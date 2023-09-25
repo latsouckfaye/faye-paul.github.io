@@ -40,7 +40,7 @@ redirect_from:
 
      - R: Parallel, Multidyplr​. | Python:
 
-- High Performance Computing (HPC)​
+  - High Performance Computing (HPC)​
 
      - Cluster meso@LR
 
@@ -114,8 +114,7 @@ Create VBA macros that customize cover letters according to information of a job
 
 ### 20th International Workshop in Spatial Econometrics and Statistics (SEW2022), Lille-France.
 
-![SEW2022](../images/posterSEW.png)
-<img src="https://raw.githubusercontent.com/latsouckfaye/faye-paul.github.io/tree/master/images/posterSEW.png">
+[SEW2022](../images/posterSEW.png)
 
 
 
