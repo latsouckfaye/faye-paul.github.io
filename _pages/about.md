@@ -144,7 +144,7 @@ Create VBA macros that customize cover letters according to information of a job
 
 ### Doctoral students' seminar at Institut Montpelliérain Alexander Grothendieck (IMAG) [Montpellier, 2023]
 
-![Doctoral Seminar - IMAG](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/JDS54.png?raw=true){: .align-center width="350px"}
+![Doctoral Seminar - IMAG](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/SemDoc.png?raw=true){: .align-center width="350px"}
 
 ### 20th International Workshop in Spatial Econometrics and Statistics (SEW2022), [Lille, 2022].
 
