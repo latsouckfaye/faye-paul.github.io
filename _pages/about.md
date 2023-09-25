@@ -20,18 +20,14 @@ redirect_from:
 <table>
 <tbody>
 <tr>
-    <td>Tools</td>
+    <td>Data science</td>
     <td>
-        <a>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="50" height="50"/>
-        </a>
-        <a>
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-        </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="50" height="50"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
     </td>
 </tr>
 <tr>
-    <td>OS</td>
+    <td>Web</td>
     <td>
         <a> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50" > 
