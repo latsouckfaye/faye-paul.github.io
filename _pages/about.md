@@ -63,6 +63,7 @@ redirect_from:
         <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/EViews.png?raw=true" alt="Eviews" width="50" height="50"/>
         <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Gretl.png?raw=true" alt="Gretl" width="50" height="50"/>
         <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Geoda.png?raw=true" alt="Geoda" width="50" height="50"/>
+        <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Excel.png?raw=true" alt="Excel" width="50" height="50"/>
     </td>
 </tr>
 
@@ -138,11 +139,16 @@ Create VBA macros that customize cover letters according to information of a job
 
 ## Recent communications
 
-### 54e journées de Statistiques
+### 54th SFDS Statistics Days [Brussels, 2023] 
+![JDS - 54](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/JDS54.png?raw=true){: .align-center width="350px"}
 
-### 20th International Workshop in Spatial Econometrics and Statistics (SEW2022), Lille-France.
+### Doctoral students' seminar at Institut Montpelliérain Alexander Grothendieck (IMAG) [Montpellier, 2023]
 
-![SEW2022](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/posterSEW.png?raw=true){: .align-center width="400px"}
+![Doctoral Seminar - IMAG](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/JDS54.png?raw=true){: .align-center width="350px"}
+
+### 20th International Workshop in Spatial Econometrics and Statistics (SEW2022), [Lille, 2022].
+
+![20th International Workshop in Spatial Econometrics and Statistics](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/posterSEW.png?raw=true){: .align-center width="350px"}
 
 
 
