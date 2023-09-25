@@ -20,6 +20,17 @@ redirect_from:
 <table>
 <tbody>
 <tr>
+    <td>Tools</td>
+    <td>
+        <a>
+            <img width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
+        </a>
+        <a>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"/>
+        </a>
+    </td>
+</tr>
+<tr>
     <td>OS</td>
     <td>
         <a> 
