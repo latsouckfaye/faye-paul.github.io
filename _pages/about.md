@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# Summary
+## Summary
 
 - 👨🏻‍💻 I am a Data Engineer at the end of a Ph. D. thesis in Applied mathematics.
 
@@ -16,15 +16,15 @@ redirect_from:
 
 - ❤️ Passionate by web development, I enjoy programming and automating routine tasks on web interfaces in my sparse time.​ I like to draw, write short narrative texts/poems, read, go for a run, travel to meet people and discover new places. 
 
-# Main skills
+## Main skills
 
-## Machine Learning 
-
-
-## High Performance Computing / Big Data
+### Machine Learning 
 
 
-## Web development
+### High Performance Computing / Big Data
+
+
+### Web development
 
 
 ## Key projects
@@ -37,16 +37,16 @@ Development of a R package spatial data analysis and visualization.​
 
 Create VBA macros that customize cover letters according to information of a job offer. ​
 
-# Communications
+## Communications
 
-## 54e journées de Statistiques
+### 54e journées de Statistiques
 
-## 20th International Workshop in Spatial Econometrics and Statistics (SEW2022), Lille-France.
+### 20th International Workshop in Spatial Econometrics and Statistics (SEW2022), Lille-France.
 
 <img src="https://raw.githubusercontent.com/latsouckfaye/faye-paul.github.io/tree/master/images/posterSEW.png">
 
 
-# Programming
+## Programming
 
 <table>
 <tbody>
