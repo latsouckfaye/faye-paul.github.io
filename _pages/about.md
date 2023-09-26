@@ -58,12 +58,13 @@ redirect_from:
 </tr>
 
 <tr>
-    <td>Statistics</td>
+    <td>Software</td>
     <td>
         <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/EViews.png?raw=true" alt="Eviews" width="50" height="50"/>
         <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Gretl.png?raw=true" alt="Gretl" width="50" height="50"/>
         <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Geoda.png?raw=true" alt="Geoda" width="50" height="50"/>
         <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Excel.png?raw=true" alt="Excel" width="50" height="50"/>
+        <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/azure.svg?raw=true" alt="Azure" width="50" height="50"/>
     </td>
 </tr>
 
@@ -101,6 +102,8 @@ redirect_from:
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="50" height="50"/>
         <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg' alt='git icon' width="50" height="50" />
         <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg' alt='GitHub icon' width="50" height="50"/>
+        <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/anaconda-original.svg' alt='Anaconda' width="50" height="50"/>
+        <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/xampp-original.svg' alt='Xampp' width="50" height="50"/>
         
     </td>
 </tr>
