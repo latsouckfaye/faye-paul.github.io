@@ -129,13 +129,13 @@ redirect_from:
 ​
 ## Key projects
 
-Creation a website for event equipment leasing.​
++ Algorithms for spatial data analysis and visualization [Ph.D, Applied Mathematics]
 
-Creation of a RShiny web application for quantitative data analysis.​
++ Website for event equipment leasing [Class project, 2019]
 
-Development of a R package spatial data analysis and visualization.​
++ Web application for quantitative data analysis [Class project, 2019]
 
-Create VBA macros that customize cover letters according to information of a job offer. ​
++ Automation of cover letters generation [Class project, 2019]. ​
 
 ## Recent communications
 
