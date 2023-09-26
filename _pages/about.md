@@ -24,6 +24,10 @@ I also like to draw, write short narrative texts/poems, read, go for a run, trav
 + Machine Learning ​
 
   - Data wrangling​
+     - Data cleaning
+     - Missing data handling / imputation
+     - Outliers handling
+     - Feature Engineering
         - R: tidyverse, dyplr, tidyr, stringr, etc. | Python: Numpy, Pandas.
   - Exploratory Data Analysis
      - Univariate / Bivariate / Multivariate Analysis
