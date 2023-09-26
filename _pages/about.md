@@ -137,13 +137,15 @@ I also like to draw, write short narrative texts/poems, read, go for a run, trav
 ## Key projects
 
 + Spatial data analysis and visualization [Thesis, 2023]
-I compare two maps with different resultion. The greater is disaggregated to match the smaller and grid cells are compared according to their labels. A match ratio is thus calculated. 
+I compare two maps with different resultions. The smaller  one is disaggregated to match the greater one and grid cells are compared according to their labels. A match ratio is thus calculated.  
 ![Screenshot Spatial data visualization](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Mapmorph.png?raw=true){: .align-right width="500px"}
 
 + Website for event equipment leasing [Class project, 2019]
+We deploy a static website where the customer can buy or lease event's products and sevices. 
 ![Screenshot Evenemential website](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Bobazar.png?raw=true){: .align-center width="700px"}
 
 + Rshiny application for quantitative data analysis [Class project, 2019]
+A Rshiny application to analyse quantitative data. Factorial analysis can be done and plots downloaded. 
 ![Screenshot Rshiny app for quantitative data analysis](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/shiny.png?raw=true){: .align-center width="700px"}
 + Automation of cover letters generation [Class project, 2019]. ​
 
