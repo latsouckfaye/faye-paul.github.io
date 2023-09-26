@@ -44,7 +44,7 @@ I also like to draw, write short narrative texts/poems, read, go for a run, trav
 
   - High Performance Computing (HPC)​
 
-     - Cluster meso@LR
+     - Cluster meso@LR | 
 
 ### Core competences
 
