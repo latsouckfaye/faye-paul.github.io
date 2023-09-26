@@ -65,7 +65,7 @@ I also like to draw, write short narrative texts/poems, read, go for a run, trav
         <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Gretl.png?raw=true" alt="Gretl" width="50" height="50"/>
         <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Geoda.png?raw=true" alt="Geoda" width="50" height="50"/>
         <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Excel.png?raw=true" alt="Excel" width="50" height="50"/>
-        <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/azure.svg?raw=true" alt="Azure" width="50" height="50"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" alt="Azure" width="50" height="50"/>
     </td>
 </tr>
 
