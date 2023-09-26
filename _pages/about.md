@@ -10,7 +10,7 @@ redirect_from:
 
 ## Summary
 
-- 👨🏻‍💻 I am a Data Engineer at the end of a Ph. D. thesis in Applied mathematics.
+- 👨🏻‍💻 I am a Data Engineer / Analyst at the end of a Ph. D. thesis in Applied mathematics.
 
 - 🔭 Last 03 years, I have worked on spatial analysis of seafloor data and built predictive models for geomorphological maps.
 
@@ -23,9 +23,9 @@ I also like to draw, write short narrative texts/poems, read, go for a run, trav
 
 + Machine Learning ​
 
-  - Data cleaning/wrangling​
+  - Data wrangling​
 
-     - R: dyplr, tidyr. | Python: Numpy, Pandas.
+     - R: tidyverse, dyplr, tidyr, stringr, etc. | Python: Numpy, Pandas.
 
   - Regression, Classification, Clustering​
 
@@ -137,10 +137,11 @@ I also like to draw, write short narrative texts/poems, read, go for a run, trav
 ## Key projects
 
 + Spatial data analysis and visualization [Thesis, 2023]
-![Screenshot Spatial data visualization](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Mapmorph.png?raw=true){: .align-center width="500px"}
+I compare two maps with different resultion. The greater is disaggregated to match the smaller and grid cells are compared according to their labels. A match ratio is thus calculated. 
+![Screenshot Spatial data visualization](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Mapmorph.png?raw=true){: .align-right width="500px"}
 
 + Website for event equipment leasing [Class project, 2019]
-![Screenshot Evenemential website](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Bobazar.png?raw=true){: .align-center width="500px"}
+![Screenshot Evenemential website](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Bobazar.png?raw=true){: .align-center width="700px"}
 
 + Rshiny application for quantitative data analysis [Class project, 2019]
 ![Screenshot Rshiny app for quantitative data analysis](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/shiny.png?raw=true){: .align-center width="700px"}
@@ -153,7 +154,7 @@ I also like to draw, write short narrative texts/poems, read, go for a run, trav
 
 ### Doctoral students' seminar at Institut Montpelliérain Alexander Grothendieck (IMAG) [Montpellier, 2023]
 
-![Doctoral Seminar - IMAG](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/SemDoc.png?raw=true){: .align-center width="400px"}
+![Doctoral Seminar - IMAG](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/SemDoc.png?raw=true){: .align-center width="500px"}
 
 ### 20th International Workshop in Spatial Econometrics and Statistics (SEW2022), [Lille, 2022].
 
