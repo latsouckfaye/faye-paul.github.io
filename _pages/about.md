@@ -122,9 +122,9 @@ redirect_from:
 
 + [Python 3 : Formation intensive à la programmation​](https://udemy.com/certificate/UC-be63f4ca-6da8-44f4-8690-d2d559326d07)
 
-+ [Machine Learning with Scikit Learn​]((https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/MLscikitLearn.pdf?raw=true"))
++ ![Machine Learning with Scikit Learn​]((https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/MLscikitLearn.pdf?raw=true"))
 
-+ [R Package development​](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Attestation_Formation_RdevPkg.pdf?raw=true")
++ ![R Package development​](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Attestation_Formation_RdevPkg.pdf?raw=true")
 
 ​
 ## Key projects
