@@ -134,6 +134,7 @@ redirect_from:
 + Website for event equipment leasing [Class project, 2019]
 
 + Web application for quantitative data analysis [Class project, 2019]
+![Screenshot Evenemential website](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Bobazar.png?raw=true){: .align-center width="350px"}
 
 + Automation of cover letters generation [Class project, 2019]. ​
 
