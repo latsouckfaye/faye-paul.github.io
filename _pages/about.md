@@ -139,7 +139,7 @@ redirect_from:
 ![Screenshot Evenemential website](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Bobazar.png?raw=true){: .align-center width="500px"}
 
 + Rshiny application for quantitative data analysis [Class project, 2019]
-![Screenshot shiny app for quantitative data analysis](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/shiny.png?raw=true){: .align-center width="500px"}
+![Screenshot Rshiny app for quantitative data analysis](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/shiny.png?raw=true){: .align-center width="700px"}
 + Automation of cover letters generation [Class project, 2019]. ​
 
 ## Recent communications
