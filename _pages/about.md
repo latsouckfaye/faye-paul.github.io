@@ -129,13 +129,14 @@ redirect_from:
 ​
 ## Key projects
 
-+ Algorithms for spatial data analysis and visualization [Thesis, 2023]
++ Spatial data analysis and visualization [Thesis, 2023]
+![Screenshot Spatial data visualization](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Mapmorph.png?raw=true){: .align-center width="500px"}
 
 + Website for event equipment leasing [Class project, 2019]
-![Screenshot Evenemential website](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Bobazar.png?raw=true){: .align-center width="400px"}
+![Screenshot Evenemential website](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Bobazar.png?raw=true){: .align-center width="500px"}
 
-+ Web application for quantitative data analysis [Class project, 2019]
-![Screenshot shiny app for quantitative data analysis](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/shiny.png?raw=true){: .align-center width="400px"}
++ Rshiny application for quantitative data analysis [Class project, 2019]
+![Screenshot shiny app for quantitative data analysis](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/shiny.png?raw=true){: .align-center width="500px"}
 + Automation of cover letters generation [Class project, 2019]. ​
 
 ## Recent communications
