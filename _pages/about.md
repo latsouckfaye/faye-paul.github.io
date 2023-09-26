@@ -22,7 +22,6 @@ I also like to draw, write short narrative texts/poems, read, go for a run, trav
 ### Data science competences
 
 + Machine Learning ​
-
   - Data wrangling​
      - Data cleaning
      - Missing data handling / imputation
@@ -39,16 +38,11 @@ I also like to draw, write short narrative texts/poems, read, go for a run, trav
      - Dimensionality reduction: HCPC, NMDS, etc.
      - Clustering: KNN, K-MEANS, CLARA, etc. 
         - R: caret, randomforest, cluster, e1071, rpart, etc. | Python: Matplotlib​.
-
 + Big data​
-
   - Parallel computing​
-
-     - R: Parallel, Multidyplr​. | Python:
-
+        - R: Parallel, Multidyplr​. | Python:
   - High Performance Computing (HPC)​
-
-     - Cluster meso@LR | 
+        - Cluster meso@LR | 
 
 ### Core competences
 
