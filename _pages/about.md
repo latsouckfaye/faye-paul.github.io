@@ -33,9 +33,9 @@ I also like to draw, write short narrative texts/poems, read, go for a run, trav
      - Data Visualization​
         - R: FactoMiner, stats, ade4, ggplot2, plotly, ggspatial. etc. | Python: seaborn , Matplotlib​.
   - Supervised / Unsupervised Learning
-     - Regression: Linear models, Decision Trees, Random Forest, SVM
+     - Regression: Linear models, Decision Trees, Random Forest, SVM, Kriging, etc.
      - classification: Logistic Regression
-     - Dimensionality reduction: Factorial analysis (PCA, MFA, FAMD, ), NMDS, etc.
+     - Dimensionality reduction: Factorial analysis (PCA, MFA, FAMD, etc.), NMDS, etc.
      - Clustering: HCPC, KNN, K-MEANS, CLARA, etc. 
         - R: caret, randomforest, cluster, e1071, rpart, etc. | Python: scikit learn, Matplotlib​.
 + Big data​
