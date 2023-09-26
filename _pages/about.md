@@ -132,9 +132,9 @@ redirect_from:
 + Algorithms for spatial data analysis and visualization [Thesis, 2023]
 
 + Website for event equipment leasing [Class project, 2019]
+![Screenshot Evenemential website](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Bobazar.png?raw=true){: .align-center width="400px"}
 
 + Web application for quantitative data analysis [Class project, 2019]
-![Screenshot Evenemential website](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Bobazar.png?raw=true){: .align-center width="350px"}
 
 + Automation of cover letters generation [Class project, 2019]. ​
 
