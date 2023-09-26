@@ -29,7 +29,7 @@ I also like to draw, write short narrative texts/poems, read, go for a run, trav
 
   - Regression, Classification, Clustering​
 
-     - R: caret, randomforest, cluster, etc. | Python: Scikit Learn, Scipy​.
+     - R: caret, randomforest, cluster, e1071, rpart, etc. | Python: Scikit Learn, Scipy​.
 
   - Data Visualization​
 
@@ -138,17 +138,17 @@ I also like to draw, write short narrative texts/poems, read, go for a run, trav
 
 ### Spatial data analysis and visualization [Thesis, 2023]
 
-I compare two maps with different resultions. The smaller  one is disaggregated to match the greater one and grid cells are compared according to their labels. A match ratio is thus calculated.
+I have developed convenience functions to create, visualize and compare maps. The example below compare two maps (labelled grid cells) with different resolutions. The smaller one is disaggregated to match the greater one and grid cells are compared according to their labels. A match ratio is then calculated.
 ![Screenshot Spatial data visualization](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Mapmorph.png?raw=true){: .align-center width="500px"}
 
 
-### Website for event equipment leasing [Class project, 2019]
-We deploy a static website where the customer can buy or lease event's products and sevices. 
+### Website for event equipment leasing [Classroom project, 2019]
+This site propose to customers to buy or lease event's products and sevices. 
 ![Screenshot Evenemential website](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Bobazar.png?raw=true){: .align-center width="700px"}
 
 
-### Rshiny application for quantitative data analysis [Class project, 2019]
-A Rshiny application to analyse quantitative data. Factorial analysis can be done and plots downloaded.
+### Rshiny application for quantitative data analysis [Classroom project, 2019]
+A Rshiny application to analyze quantitative data. Factorial analysis methods are implemented. Output graphics can be plotted and downloaded.
 ![Screenshot Rshiny app for quantitative data analysis](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/shiny.png?raw=true){: .align-center width="700px"}
 
 
