@@ -102,8 +102,8 @@ redirect_from:
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="50" height="50"/>
         <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg' alt='git icon' width="50" height="50" />
         <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg' alt='GitHub icon' width="50" height="50"/>
-        <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/anaconda-original.svg' alt='Anaconda' width="50" height="50"/>
-        <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/xampp-original.svg' alt='Xampp' width="50" height="50"/>
+        <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg' alt='Anaconda' width="50" height="50"/>
+        <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/xampp/xampp-original.svg' alt='Xampp' width="50" height="50"/>
         
     </td>
 </tr>
@@ -145,15 +145,15 @@ redirect_from:
 ## Recent communications
 
 ### 54th SFDS Statistics Days [Brussels, 2023] 
-![JDS - 54](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/JDS54.png?raw=true){: .align-center width="350px"}
+![JDS - 54](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/JDS54.png?raw=true){: .align-center width="400px"}
 
 ### Doctoral students' seminar at Institut Montpelliérain Alexander Grothendieck (IMAG) [Montpellier, 2023]
 
-![Doctoral Seminar - IMAG](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/SemDoc.png?raw=true){: .align-center width="350px"}
+![Doctoral Seminar - IMAG](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/SemDoc.png?raw=true){: .align-center width="400px"}
 
 ### 20th International Workshop in Spatial Econometrics and Statistics (SEW2022), [Lille, 2022].
 
-![20th International Workshop in Spatial Econometrics and Statistics](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/posterSEW.png?raw=true){: .align-center width="300px"}
+![20th International Workshop in Spatial Econometrics and Statistics](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/posterSEW.png?raw=true){: .align-center width="400px"}
 
 
 
