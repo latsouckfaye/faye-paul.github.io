@@ -21,7 +21,10 @@ I also like to draw, write short narrative texts/poems, read, go for a run, trav
 
 ### Data science competences
 
-+ Machine Learning ​
++ Machine Learning 
+  - Date extraction 
+     - ETL​
+        - Sql Server | 
   - Data wrangling​
      - Data cleaning
      - Missing data handling / imputation
@@ -59,7 +62,7 @@ I also like to draw, write short narrative texts/poems, read, go for a run, trav
 </tr>
 
 <tr>
-    <td>Software</td>
+    <td>Softwares</td>
     <td>
         <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/EViews.png?raw=true" alt="Eviews" width="50" height="50"/>
         <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Gretl.png?raw=true" alt="Gretl" width="50" height="50"/>
