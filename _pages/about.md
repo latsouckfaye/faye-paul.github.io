@@ -27,24 +27,23 @@ I also like to draw, write short narrative texts/poems, read, go for a run, trav
      - Missing data handling / imputation
      - Outliers handling
      - Feature Engineering
-        - R: tidyverse, dyplr, tidyr, stringr, etc. | Python: Numpy, Pandas.
+        - R: tidyverse, dyplr, tidyr, stringr, etc. | Python: Numpy, Pandas, math.
   - Exploratory Data Analysis
      - Univariate / Bivariate / Multivariate Analysis
      - Data Visualization​
-        - R: FactoMiner, stats, ade4, ggplot2, plotly, ggspatial. etc. | Python: Numpy, Pandas, Matplotlib​.
+        - R: FactoMiner, stats, ade4, ggplot2, plotly, ggspatial. etc. | Python: seaborn , Matplotlib​.
   - Supervised / Unsupervised Learning
      - Regression: Linear models, Decision Trees, Random Forest, SVM
      - classification: Logistic Regression
-     - Dimensionality reduction: HCPC, NMDS, etc.
-     - Clustering: KNN, K-MEANS, CLARA, etc. 
-        - R: caret, randomforest, cluster, e1071, rpart, etc. | Python: Matplotlib​.
+     - Dimensionality reduction: Factorial analysis (PCA, MFA, FAMD, ), NMDS, etc.
+     - Clustering: HCPC, KNN, K-MEANS, CLARA, etc. 
+        - R: caret, randomforest, cluster, e1071, rpart, etc. | Python: scikit learn, Matplotlib​.
 + Big data​
   - Parallel computing​
-       
-        - R: Parallel, Multidyplr​. | Python:
+       - R: Parallel, Multidyplr​. | Python:
   - High Performance Computing (HPC)​
-       
-        - Cluster meso@LR | 
+       - Cluster meso@LR |
+         
 
 ### Core competences
 
