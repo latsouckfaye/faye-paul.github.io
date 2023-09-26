@@ -40,8 +40,10 @@ I also like to draw, write short narrative texts/poems, read, go for a run, trav
         - R: caret, randomforest, cluster, e1071, rpart, etc. | Python: Matplotlib​.
 + Big data​
   - Parallel computing​
+       
         - R: Parallel, Multidyplr​. | Python:
   - High Performance Computing (HPC)​
+       
         - Cluster meso@LR | 
 
 ### Core competences
