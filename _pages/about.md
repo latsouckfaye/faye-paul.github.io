@@ -132,9 +132,9 @@ I also like to draw, write short narrative texts/poems, read, go for a run, trav
 
 + [Python 3 : Formation intensive à la programmation​](https://udemy.com/certificate/UC-be63f4ca-6da8-44f4-8690-d2d559326d07)
 
-+ [Machine Learning with Scikit Learn​](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/files/MLscikitLearn.pdf?raw=true")
++ ![Machine Learning with Scikit Learn​](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/files/MLscikitLearn.pdf)
 
-+ [R Package development​](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/files/Attestation_Formation_RdevPkg.pdf?raw=true")
++ ![R Package development​](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/files/Attestation_Formation_RdevPkg.pdf)
 
 ​
 ## Key projects
