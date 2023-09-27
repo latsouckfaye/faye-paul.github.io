@@ -32,18 +32,18 @@ Hi👋
      - Data cleaning
      - Missing data handling / imputation
      - Outliers handling
-     - Feature Engineering
+     - Feature engineering
         - R: tidyverse, dyplr, tidyr, stringr, etc. | Python: Numpy, Pandas, math.
   - Exploratory Data Analysis
      - Univariate / Bivariate / Multivariate Analysis
      - Data Visualization​
-        - R: FactoMiner, stats, ade4, ggplot2, plotly, ggspatial. etc. | Python: seaborn , Matplotlib​.
+        - R: FactoMiner, stats, ade4, ggplot2, plotly, ggspatial. etc. | Python: seaborn, Matplotlib​.
   - Supervised / Unsupervised Learning
-     - Regression: Linear models, Decision Trees, Random Forest, SVM, Kriging, etc.
-     - classification: Logistic Regression
+     - Regression: Linear models, Random Forest, SVM, Kriging, etc.
+     - classification: Logistic Regression, Decision trees, Random Forest, etc.
      - Dimensionality reduction: Factorial analysis (PCA, MFA, FAMD, etc.), NMDS, etc.
      - Clustering: HCPC, KNN, K-MEANS, CLARA, etc. 
-        - R: caret, randomforest, cluster, e1071, rpart, etc. | Python: scikit learn, Matplotlib​.
+        - R: caret, randomforest, cluster, e1071, rpart, etc. | Python: scikit learn, scipy, etc.
 + Big data​
   - Parallel computing​
        - R: Parallel, Multidyplr​. | Python:
@@ -173,6 +173,8 @@ This application is developped using the Rshiny framework. It provides tools to 
 
 ![20th International Workshop in Spatial Econometrics and Statistics](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/posterSEW.png?raw=true){: .align-center width="400px"}
 
+
+Feel free to look at my synthetic ![CV](https://latsouckfaye.github.io/faye-paul.github.io/files/ResumePAF.pdf)
 
 
 
