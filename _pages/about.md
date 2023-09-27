@@ -12,12 +12,10 @@ redirect_from:
 
 - 👨🏻‍💻 I am a Data Engineer / Analyst. 
 
-
-- 🔭 I am at the end of a Ph. D. thesis in Applied mathematics.
+- 🔭 Passionate by Data wrangling and web development, I enjoy programming and automating routine tasks on web interfaces.
 Last 03 years, I have worked on spatial analysis of seafloor data and built predictive models for geomorphological maps.
 
-- ❤️ Passionate by Data wrangling and web development, I enjoy programming and automating routine tasks on web interfaces in my sparse time.​ 
-I also like to draw, write short narrative texts/poems, read, go for a run, travel to meet people and discover new places. 
+- ❤️  I also like to draw, write short narrative texts/poems, read, go for a run, travel to meet people and discover new places. 
 
 ## Main skills
 
