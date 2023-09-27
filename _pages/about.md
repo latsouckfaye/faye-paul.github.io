@@ -153,7 +153,7 @@ This application is developped using the Rshiny framework. It provides tools to 
 
 ### Automation of cover letters generation [Class project, 2019]
 In this project, I create a VBA formular that can be used to fill predefined cover letter fields entering job offers informations. Several templates are created according to the thematic job application. 
-![Screenshot VBA formular](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/vbaproject.png?raw=true){: .align-center width="700px"}
+![Screenshot VBA formular](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/vbaproject.png?raw=true){: .align-center width="500px"}
 
 ## Recent communications
 
