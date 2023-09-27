@@ -30,7 +30,7 @@ Hi👋
         - R: tidyverse, dyplr, stringr, etc. | Python: Numpy, Pandas, SciPy.| Sql Server.
   - Exploratory Data Analysis
      - Univariate / Bivariate / Multivariate and Correlation analysis, Data Visualization.​
-        R: FactoMiner, ade4, ggplot2, plotly, etc. | Python: Matplotlib, Seaborn.
+        - R: FactoMiner, ade4, ggplot2, plotly, etc. | Python: Matplotlib, Seaborn.
   - Supervised / Unsupervised Learning
      - Regression: Linear models, Random Forest, SVM, Kriging, etc.
      - classification: Logistic Regression, Decision trees, Random Forest, etc.
