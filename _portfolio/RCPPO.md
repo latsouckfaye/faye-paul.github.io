@@ -1,11 +1,7 @@
 ---
-permalink: /
-title: "About me"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /RCPPO/
-  - /RCPPO.html
+title: "Cursus"
+excerpt: "Implementation of RCPO into stable-baselines3 PPO"
+collection: portfolio
 ---
 
 [Short CV](https://latsouckfaye.github.io/faye-paul.github.io/files/ResumePAF.pdf).
