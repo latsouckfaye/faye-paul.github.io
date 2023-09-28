@@ -1,12 +1,7 @@
 ---
 title: "RCPPO"
-excerpt: "Implementation of RCPO into stable-baselines3 PPO. <br/><img src='/images/RCPPO.png'>"
 collection: portfolio
 ---
-
-[Short CV](https://latsouckfaye.github.io/faye-paul.github.io/files/ResumePAF.pdf).
-
-[Detailled CV](https://latsouckfaye.github.io/faye-paul.github.io/files/ResumeLongPAF.pdf)
 
 ## Main skills
 
@@ -158,5 +153,4 @@ Poster presentation, guests reception and orientation.
 ![20th International Workshop in Spatial Econometrics and Statistics](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/posterSEW.png?raw=true){: .align-center width="400px"}
 
 
-Feel free to look at my synthetic [CV](https://latsouckfaye.github.io/faye-paul.github.io/files/ResumePAF.pdf).
-
+Feel free to look at my [Short CV](https://latsouckfaye.github.io/faye-paul.github.io/files/ResumePAF.pdf) or [Detailled CV](https://latsouckfaye.github.io/faye-paul.github.io/files/ResumeLongPAF.pdf).
