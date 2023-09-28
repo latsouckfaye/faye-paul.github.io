@@ -3,9 +3,9 @@ main:
   - title: "CV"
     # url: /cv/
     url: /files/ResumePAF.pdf
-    
-  - title: "Portfolio"
-    url: /portfolio/
+
+ # - title: "Portofolio"
+  #  url: /portfolio/
 
   
   
