@@ -1,9 +1,12 @@
 ---
 title: "Paul FAYE"
-excerpt: ""
 permalink: /portofolio/RCPPO
 collection: portfolio
 ---
+
+Short [Short CV](https://latsouckfaye.github.io/faye-paul.github.io/files/ResumePAF.pdf).
+
+Long [Detailled CV](https://latsouckfaye.github.io/faye-paul.github.io/files/ResumeLongPAF.pdf)
 
 ## Main skills
 
