@@ -1,11 +1,6 @@
 ---
-permalink: /
 title: "Portofolio"
 excerpt: "Portofolio"
-author_profile: true
-redirect_from: 
-  - /portofolio/
-  - /portofolio.html
 ---
 
 [Short CV](https://latsouckfaye.github.io/faye-paul.github.io/files/ResumePAF.pdf).
