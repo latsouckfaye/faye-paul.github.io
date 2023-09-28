@@ -1,6 +1,11 @@
 ---
-title: "Portofolio"
-excerpt: "Portofolio"
+permalink: /
+title: "About me"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /RCPPO/
+  - /RCPPO.html
 ---
 
 [Short CV](https://latsouckfaye.github.io/faye-paul.github.io/files/ResumePAF.pdf).
