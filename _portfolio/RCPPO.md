@@ -1,12 +1,16 @@
 ---
-title: "Paul FAYE"
-permalink: /portofolio/RCPPO
-collection: portfolio
+permalink: /
+title: "Portofolio"
+excerpt: "Portofolio"
+author_profile: true
+redirect_from: 
+  - /portofolio/
+  - /portofolio.html
 ---
 
-Short [Short CV](https://latsouckfaye.github.io/faye-paul.github.io/files/ResumePAF.pdf).
+[Short CV](https://latsouckfaye.github.io/faye-paul.github.io/files/ResumePAF.pdf).
 
-Long [Detailled CV](https://latsouckfaye.github.io/faye-paul.github.io/files/ResumeLongPAF.pdf)
+[Detailled CV](https://latsouckfaye.github.io/faye-paul.github.io/files/ResumeLongPAF.pdf)
 
 ## Main skills
 
