@@ -1,12 +1,11 @@
 # main links links
 main:
-  - title: "CV"
-    # url: /cv/
-    url: /files/ResumePAF.pdf
-
   - title: "Portofolio"
     url: /portofolio/
 
+  - title: "CV"
+    # url: /cv/
+    url: /files/ResumePAF.pdf
 
   #- title: "Publications"
    # url: /publications/
