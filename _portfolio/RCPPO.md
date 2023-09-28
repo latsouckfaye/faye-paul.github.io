@@ -1,6 +1,7 @@
 ---
 title: "Paul FAYE"
-excerpt: "Implementation of RCPO into stable-baselines3 PPO. <br/><img src='/images/RCPPO.png'>"
+excerpt: ""
+permalink: /portofolio/RCPPO
 collection: portfolio
 ---
 
