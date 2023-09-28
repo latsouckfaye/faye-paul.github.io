@@ -1,5 +1,5 @@
 ---
-title: " Portofolio"
+title: "Portofolio"
 excerpt: " "
 collection: portfolio
 ---
