@@ -4,11 +4,10 @@ main:
     # url: /cv/
     url: /files/ResumePAF.pdf
 
- # - title: "Portofolio"
-  #  url: /portfolio/
+  - title: "Portofolio"
+    url: /portofolio/
 
-  
-  
+
   #- title: "Publications"
    # url: /publications/
     # url: https://scholar.google.es/citations?user=xxxxxxxx=en
