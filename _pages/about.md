@@ -163,12 +163,9 @@ In this project, I create a VBA formular that can be used to fill predefined cov
 45 minutes of presentation of some results of my research work. 
 ![Doctoral Seminar - IMAG](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/SemDoc.png?raw=true){: .align-center width="500px"}
 
-### 20th International Workshop in Spatial Econometrics and Statistics (SEW2022), [Lille, 2022].
+### 20th International Workshop in Spatial Econometrics and Statistics (SEW2022), [Lille, 2022]
 Poster presentation, guests reception and orientation.
 ![20th International Workshop in Spatial Econometrics and Statistics](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/posterSEW.png?raw=true){: .align-center width="400px"}
-
-Feel free to look at the ![short](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/ResumePAF.pdf) or ![long](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/files/ResumeLongPAF.pdf?raw=true) version of my portofolio. 
-
 
 
 
