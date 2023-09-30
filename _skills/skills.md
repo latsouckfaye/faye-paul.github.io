@@ -4,8 +4,8 @@ title: "About me"
 excerpt: "skills"
 author_profile: true
 redirect_from: 
-  - /skills/
-  - /skills.html
+  - /portofolio/
+  - /portofolio.html
 ---
 
 Hi👋, Paul there !
