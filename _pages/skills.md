@@ -1,10 +1,6 @@
 ---
 title: "Main Skills"
 permalink: /skills/
-author_profile: true
-redirect_from: 
-  - /skills/
-  - /skills.html
 ---
 ### Data science competences
 
