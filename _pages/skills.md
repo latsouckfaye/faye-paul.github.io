@@ -1,8 +1,3 @@
----
-title: "Main skills"
-collection: skills
-permalink: /skills/skills
----
 
 ### Data science competences
 
