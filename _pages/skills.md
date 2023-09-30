@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi👋, Paul there!
+Hi👋, Paul there !
