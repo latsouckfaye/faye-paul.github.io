@@ -138,7 +138,7 @@ This site propose to customers to buy or lease event's products and services.
 
 ### Web application for quantitative data analysis [Classroom project, 2019]
 This application is developped using the Rshiny framework. It provides tools to analyze quantitative data. Factorial analysis methods are implemented within it. Output graphics can be plotted and downloaded.
-![Screenshot Rshiny app for quantitative data analysis](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/shiny.png?raw=true){: .align-center width="700px"}
+![Screenshot Rshiny app for quantitative data analysis](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/RShinyApp.png?raw=true){: .align-center width="700px"}
 
 
 ### Automation of cover letters generation [Class project, 2019]
