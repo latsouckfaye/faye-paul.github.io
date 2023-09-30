@@ -1,4 +1,12 @@
-
+---
+permalink: /
+title: "Skills"
+excerpt: "Skills"
+author_profile: true
+redirect_from: 
+  - /skills/
+  - /skills.html
+---
 ### Data science competences
 
 + Machine Learning 
