@@ -24,3 +24,12 @@ author_profile: true
        - R: Parallel, Multidyplr​. | Python:
   - High Performance Computing (HPC)​
        - Cluster meso@LR | 
+
+
+{% include base_path %}
+
+{% assign ordered_pages = site.skills | sort:"order_number" %}
+
+{% for post in ordered_pages %}
+  {% include archive-single.html type="grid" %}
+{% endfor %}
