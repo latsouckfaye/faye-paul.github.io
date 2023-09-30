@@ -1,14 +1,14 @@
 # main links links
 main:
- # - title: "portfolio"
-  #  url: /portfolio/
+ - title: "portfolio"
+  url: /portfolio/
 
   - title: "CV"
     # url: /cv/
     url: /files/ResumePAF.pdf
 
-- title: "Skills"
-   url: /skills/
+#- title: "Skills"
+#  url: /skills/
   #- title: "Publications"
    # url: /publications/
     # url: https://scholar.google.es/citations?user=xxxxxxxx=en
