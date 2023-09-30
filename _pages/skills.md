@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Main Skills"
 permalink: /skills/
 author_profile: true
