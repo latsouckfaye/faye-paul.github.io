@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Paul FAYE"
-title_separator          : ""
+title_separator          : "_"
 name                     : &name "Paul FAYE"
 description              : &description "personal description"
 url                      : https://latsouckfaye.github.io/faye-paul.github.io # https://sudo-Boris.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
