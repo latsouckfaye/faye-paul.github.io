@@ -61,19 +61,12 @@ Hi👋, Paul there!
     <td>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" alt="Azure" width="50" height="50"/>
         <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/tableau.jpg?raw=true" alt="Tableau" width="50" height="50"/>
+        <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/shiny.png?raw=true" alt="shiny" width="50" height="50"/>
         <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/sqlserver.svg?raw=true" alt="sqlserver" width="50" height="50"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
         <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg' alt='postgresql' width="50" height="50" />
         <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Excel.png?raw=true" alt="Excel" width="50" height="50"/>
     </td>
-</tr>
-    <td>Softwares</td>
-    <td>
-        <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/EViews.png?raw=true" alt="Eviews" width="50" height="50"/>
-        <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Gretl.png?raw=true" alt="Gretl" width="50" height="50"/>
-        <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Geoda.png?raw=true" alt="Geoda" width="50" height="50"/>
-    </td>
-</tr>
 <tr>
     <td>Web</td>
     <td>
@@ -89,22 +82,29 @@ Hi👋, Paul there!
 <tr>
     <td>IDE</td>
     <td>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg?raw=true" alt="rstudio" width="50" height="50"/>
+        <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg' alt='Anaconda' width="50" height="50"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="50" height="50"/>
         <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg' alt='git icon' width="50" height="50" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg?raw=true" alt="rstudio" width="50" height="50"/>
         <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg' alt='GitHub icon' width="50" height="50"/>
-        <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg' alt='Anaconda' width="50" height="50"/>
         <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg' alt='vscode' width="50" height="50"/>
-        <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/xampp.png?raw=true" alt='Xampp' width="50" height="50"/>
         <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/GoogleColab.png?raw=true" alt='google colab' width="50" height="50"/>
-        
     </td>
 </tr>
 <tr>
     <td>Communication</td>
     <td>
+        <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/rmarkdown.png?raw=true" alt="Rmarkdown" width="50" height="50"/>
         <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/LaTeX.png?raw=true" alt="Latex" width="50" height="50"/>
         <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/powerpoint.png?raw=true" alt="Powerpoint" width="50" height="50"/>
+    </td>
+</tr>
+</tr>
+    <td>Statistics softwares</td>
+    <td>
+        <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/EViews.png?raw=true" alt="Eviews" width="50" height="50"/>
+        <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Gretl.png?raw=true" alt="Gretl" width="50" height="50"/>
+        <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Geoda.png?raw=true" alt="Geoda" width="50" height="50"/>
     </td>
 </tr>
 </tbody>
