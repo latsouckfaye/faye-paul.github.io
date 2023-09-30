@@ -1,9 +1,6 @@
 ---
-title: "RCPPO"
-collection: portfolio
+title: "Main skills"
 ---
-## Main skills
-
 ### Data science competences
 
 + Machine Learning 
