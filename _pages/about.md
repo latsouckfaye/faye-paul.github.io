@@ -56,31 +56,22 @@ Hi👋, Paul there!
 </tr>
 
 <tr>
+<tr>
+    <td>Business Intelligence</td>
+    <td>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" alt="Azure" width="50" height="50"/>
+        <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/tableau.jpg?raw=true" alt="Tableau" width="50" height="50"/>
+        <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/sqlserver.svg?raw=true" alt="sqlserver" width="50" height="50"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
+        <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg' alt='postgresql' width="50" height="50" />
+        <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Excel.png?raw=true" alt="Excel" width="50" height="50"/>
+    </td>
+</tr>
     <td>Softwares</td>
     <td>
         <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/EViews.png?raw=true" alt="Eviews" width="50" height="50"/>
         <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Gretl.png?raw=true" alt="Gretl" width="50" height="50"/>
         <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Geoda.png?raw=true" alt="Geoda" width="50" height="50"/>
-        <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Excel.png?raw=true" alt="Excel" width="50" height="50"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" alt="Azure" width="50" height="50"/>
-    </td>
-</tr>
-
-<tr>
-    <td>Data Visualization</td>
-    <td>
-        <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/tableau.jpg?raw=true" alt="Tableau" width="50" height="50"/>
-    </td>
-</tr>
-
-<tr>
-<td>Database</td>
-    <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
-        <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg' alt='postgresql' width="50" height="50" />
-        <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/access.png?raw=true" alt="access" width="50" height="50"/>
-        <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/sqlserver.svg?raw=true" alt="sqlserver" width="50" height="50"/>
-        <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/PhpMyAdmin.png?raw=true" alt="PhpMyAdmin" width="50" height="50"/>
     </td>
 </tr>
 <tr>
@@ -92,6 +83,7 @@ Hi👋, Paul there!
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50" /> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="50" height="50"/>
+        <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/PhpMyAdmin.png?raw=true" alt="PhpMyAdmin" width="50" height="50"/>
     </td>
 </tr>
 <tr>
