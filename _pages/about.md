@@ -10,11 +10,11 @@ redirect_from:
 
 Hi👋, Paul there!
 
-- I am Data Engineer / Analyst. 
+- I am a Data Engineer / Analyst. 
 
-- 🔭 Passionate by Data Analysis and Web development, I enjoy programming and automating routine tasks on web interfaces.
+- 🔭 As a Data passionate, I enjoy automating and deploying web applications for Data Analysis.​
 
-- 👨🏻‍💻 Last three (03) years, I have worked on spatial analysis of seafloor data as part of my doctoral thesis. I have built Machine Learning based tools to automate seafloor geomorphologic mapping.
+- 👨🏻‍💻 Last 3 years, I have worked on spatial analysis of seafloor data. I have built a Machine Learning based Methodology to automate seafloor geomorphologic mapping and provide statistical tools for reproducibility.
 
 - ❤️ I also like to draw, write short narrative texts/poems, read, go for a run, travel to meet people and discover new places.
 
