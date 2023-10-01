@@ -1,7 +1,12 @@
 ---
-title: "Main skills"
+permalink: /
+title: "About me"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /portofolio/
+  - /portofolio.html
 ---
-
 ### Data science competences
 
 + Machine Learning 
@@ -140,5 +145,3 @@ In this project, I create a VBA formular that can be used to fill predefined cov
 ### 20th International Workshop in Spatial Econometrics and Statistics (SEW2022), [Lille, 2022]
 Poster presentation, guests reception and orientation.
 ![20th International Workshop in Spatial Econometrics and Statistics](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/posterSEW.png?raw=true){: .align-center width="400px"}
-
-
