@@ -1,11 +1,8 @@
 ---
-permalink: /
-title: "About me"
-excerpt: "About me"
+layout: archive
+title: "Publications"
+permalink: /publications/
 author_profile: true
-redirect_from: 
-  - /portofolio/
-  - /portofolio.html
 ---
 ### Data science competences
 
