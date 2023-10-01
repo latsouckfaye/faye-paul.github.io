@@ -107,23 +107,23 @@ title: "Main skills"
 ​
 ## Key projects
 
-### Spatial data analysis and visualization [Thesis, 2023]
+### Spatial data analysis and visualization
 
 I have developed convenience functions to create, visualize and compare maps. The example below compare two maps (labelled grid cells) with different resolutions. The smaller one is disaggregated to match the greater one and grid cells are compared according to their labels. A match ratio is then calculated.
 ![Screenshot Spatial data visualization](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Mapmorph.png?raw=true){: .align-center width="500px"}
 
 
-### Website for event equipment leasing [Classroom project, 2019]
+### Website for event equipment leasing
 This site propose to customers to buy or lease event's products and services. 
 ![Screenshot Evenemential website](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Bobazar.png?raw=true){: .align-center width="700px"}
 
 
-### Web application for quantitative data analysis [Classroom project, 2019]
+### Web application for quantitative data analysis
 This application is developped using the Rshiny framework. It provides tools to analyze quantitative data. Factorial analysis methods are implemented within it. Output graphics can be plotted and downloaded.
 ![Screenshot Rshiny app for quantitative data analysis](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/RShinyApp.png?raw=true){: .align-center width="700px"}
 
 
-### Automation of cover letters generation [Class project, 2019]
+### Automation of cover letters generation
 In this project, I create a VBA formular that can be used to fill predefined cover letter fields entering job offers informations. Several templates are created according to the thematic job application. 
 ![Screenshot VBA formular](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/vbaproject.png?raw=true){: .align-center width="500px"}
 
