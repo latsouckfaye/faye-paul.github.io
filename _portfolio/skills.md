@@ -1,5 +1,4 @@
 ---
-permalink: /
 title: "Main skills"
 ---
 
