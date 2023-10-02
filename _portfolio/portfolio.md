@@ -27,7 +27,7 @@ title: "See all"
 
 # Core competences
 
-<table style="background-color:#fff">
+<table style="color: #fff; background-color:#fff">
 <tbody>
 <tr>
     <td>Data science</td>
