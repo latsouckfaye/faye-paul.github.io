@@ -1,7 +1,7 @@
 ---
 title: "Main Skills"
 ---
-### Machine Learning 
+# Machine Learning 
   - Data wrangling​
      - Data extraction, Data cleaning, Missing data handling / imputation, Outliers handling, Feature engineering.
         - R: tidyverse, dyplr, stringr, etc. | Python: Numpy, Pandas, SciPy.| Sql Server.
@@ -14,14 +14,14 @@ title: "Main Skills"
      - Dimensionality reduction: Factorial analysis (PCA, MFA, FAMD, etc.), NMDS, etc.
      - Clustering: HCPC, KNN, K-MEANS, CLARA, etc. 
         - R: caret, randomforest, cluster, e1071, rpart, etc. | Python: Scikit learn, TensorFlow.
-### Big data​
+# Big data​
   - Parallel computing​
        - R: Parallel, Multidyplr​. | Python:
   - High Performance Computing (HPC)​
        - Cluster meso@LR | 
       
 
-### Core competences
+# Core competences
 
 <table>
 <tbody>
@@ -89,7 +89,7 @@ title: "Main Skills"
 </tbody>
 </table>
 
-### Certificates 
+# Certificates 
 
 + [SQL for Data Science](https://www.udemy.com/share/101uky3@BfgbUp39JbQhqc74XinDrco7_aIppr_KtVYXYI7vntQCCh85tv_BQlUFXzt4e3wP/)
 
@@ -102,38 +102,38 @@ title: "Main Skills"
 + [R Package development​](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/files/Attestation_Formation_RdevPkg.pdf)
 
 ​
-## Key projects
+# Key projects
 
-### Spatial data analysis and visualization
+## Spatial data analysis and visualization
 
 I have developed convenience functions to create, visualize and compare maps. The example below compare two maps (labelled grid cells) with different resolutions. The smaller one is disaggregated to match the greater one and grid cells are compared according to their labels. A match ratio is then calculated.
 ![Screenshot Spatial data visualization](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Mapmorph.png?raw=true){: .align-center width="500px"}
 
 
-### Website for event equipment leasing
+## Website for event equipment leasing
 This site propose to customers to buy or lease event's products and services. 
 ![Screenshot Evenemential website](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Bobazar.png?raw=true){: .align-center width="700px"}
 
 
-### Web application for quantitative data analysis
+## Web application for quantitative data analysis
 This application is developped using the Rshiny framework. It provides tools to analyze quantitative data. Factorial analysis methods are implemented within it. Output graphics can be plotted and downloaded.
 ![Screenshot Rshiny app for quantitative data analysis](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/RShinyApp.png?raw=true){: .align-center width="700px"}
 
 
-### Automation of cover letters generation
+## Automation of cover letters generation
 In this project, I create a VBA formular that can be used to fill predefined cover letter fields entering job offers informations. Several templates are created according to the thematic job application. 
 ![Screenshot VBA formular](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/vbaproject.png?raw=true){: .align-center width="500px"}
 
-## Recent communications
+# Recent communications
 
-### 54th SFDS Statistics Days [Brussels, 2023] 
+## 54th SFDS Statistics Days [Brussels, 2023] 
 15 minutes of presentation of some results of my research work. 
 ![JDS - 54](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/JDS54.png?raw=true){: .align-center width="400px"}
 
-### Doctoral students' seminar at Institut Montpelliérain Alexander Grothendieck (IMAG) [Montpellier, 2023]
+## Doctoral students' seminar at Institut Montpelliérain Alexander Grothendieck (IMAG) [Montpellier, 2023]
 45 minutes of presentation of some results of my research work. 
 ![Doctoral Seminar - IMAG](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/SemDoc.png?raw=true){: .align-center width="500px"}
 
-### 20th International Workshop in Spatial Econometrics and Statistics (SEW2022), [Lille, 2022]
+## 20th International Workshop in Spatial Econometrics and Statistics (SEW2022), [Lille, 2022]
 Poster presentation, guests reception and orientation.
 ![20th International Workshop in Spatial Econometrics and Statistics](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/posterSEW.png?raw=true){: .align-center width="400px"}
