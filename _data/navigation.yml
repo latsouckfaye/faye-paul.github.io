@@ -1,9 +1,9 @@
 # main links links
 main:
-  - title: "Portfolio"
+  - title: "Portofolio"
     url: /portfolio/
 
-    
+
   - title: "CV"
     # url: /cv/
     url: /files/ResumePAF.pdf
