@@ -1,3 +1,6 @@
+---
+title: "Main Skills"
+---
 ### Data Science competences
 + Machine Learning 
   - Data wrangling​
