@@ -1,4 +1,4 @@
-
+### Data Science competences
 + Machine Learning 
   - Data wrangling​
      - Data extraction, Data cleaning, Missing data handling / imputation, Outliers handling, Feature engineering.
