@@ -99,7 +99,7 @@ title: "See all"
 
 + [SAS Programming](https://www.youracclaim.com/badges/d7723949-77c3-4e2a-a5cc-c36af5a7dbbe/public_url)
 
-+ [Python 3 : Formation intensive à la programmation​](https://udemy.com/certificate/UC-be63f4ca-6da8-44f4-8690-d2d559326d07)
++ [Python 3 Programming​](https://udemy.com/certificate/UC-be63f4ca-6da8-44f4-8690-d2d559326d07)
 
 + [Machine Learning with Scikit Learn​](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/files/MLscikitLearn.pdf)
 
