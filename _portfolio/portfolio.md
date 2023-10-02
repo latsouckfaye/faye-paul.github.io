@@ -5,7 +5,7 @@ title: "See all"
 # Data Engineering | Machine Learning
   - Data wrangling​
      - Data extraction.
-        - ETL | Sql Server
+        - ETL. | Sql Server.
      - Data cleaning, Missing data handling / imputation, Outliers handling.
      - Feature engineering.
         - R: tidyverse, dyplr, stringr, etc. | Python: Numpy, Pandas, SciPy.
