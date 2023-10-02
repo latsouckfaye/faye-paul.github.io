@@ -15,7 +15,7 @@ title: "See all"
         - R: FactoMiner, ade4, ggplot2, plotly, etc. | Python: Matplotlib, Seaborn.
   - Supervised / Unsupervised Learning
      - Regression: Linear models, Random Forest, SVM, Kriging, etc.
-     - classification: Logistic Regression, Decision trees, Random Forest, etc.
+     - Classification: Logistic Regression, Decision trees, Random Forest, etc.
      - Dimensionality Reduction: Factorial analysis (PCA, MFA, FAMD, etc.), NMDS, etc.
      - Clustering: HCPC, KNN, K-MEANS, CLARA, etc. 
         -  R: caret, randomforest, cluster, e1071, rpart, etc. | Python: Scikit learn, TensorFlow.
@@ -27,7 +27,7 @@ title: "See all"
 
 # Core competences
 
-<table>
+<table style="background-color:#fff">
 <tbody>
 <tr>
     <td>Data science</td>
