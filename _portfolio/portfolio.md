@@ -2,7 +2,7 @@
 title: "See all"
 ---
 
-# Machine Learning 
+# Machine learning 
   - Data wrangling​
      - Data extraction, Data cleaning, Missing data handling / imputation, Outliers handling, Feature engineering.
         - R: tidyverse, dyplr, stringr, etc. | Python: Numpy, Pandas, SciPy.| Sql Server.
