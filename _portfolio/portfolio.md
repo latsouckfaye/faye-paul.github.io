@@ -14,13 +14,12 @@ title: "See all"
      - classification: Logistic Regression, Decision trees, Random Forest, etc.
      - Dimensionality reduction: Factorial analysis (PCA, MFA, FAMD, etc.), NMDS, etc.
      - Clustering: HCPC, KNN, K-MEANS, CLARA, etc. 
-        - R: caret, randomforest, cluster, e1071, rpart, etc. | Python: Scikit learn, TensorFlow.
-
+        -  R: caret, randomforest, cluster, e1071, rpart, etc. | Python: Scikit learn, TensorFlow.
 # Big data​
   - Parallel computing​
-       - R: Parallel, Multidyplr​. | Python:
+     - R: Parallel, Multidyplr​. | Python:
   - High Performance Computing (HPC)​
-       - Cluster meso@LR | 
+     - Cluster meso@LR | 
       
 
 # Core competences
