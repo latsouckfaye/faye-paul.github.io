@@ -1,8 +1,7 @@
 ---
 title: "Main Skills"
 ---
-### Data Science competences
-+ Machine Learning 
+### Machine Learning 
   - Data wrangling​
      - Data extraction, Data cleaning, Missing data handling / imputation, Outliers handling, Feature engineering.
         - R: tidyverse, dyplr, stringr, etc. | Python: Numpy, Pandas, SciPy.| Sql Server.
@@ -15,12 +14,12 @@ title: "Main Skills"
      - Dimensionality reduction: Factorial analysis (PCA, MFA, FAMD, etc.), NMDS, etc.
      - Clustering: HCPC, KNN, K-MEANS, CLARA, etc. 
         - R: caret, randomforest, cluster, e1071, rpart, etc. | Python: Scikit learn, TensorFlow.
-+ Big data​
+### Big data​
   - Parallel computing​
        - R: Parallel, Multidyplr​. | Python:
   - High Performance Computing (HPC)​
        - Cluster meso@LR | 
-         
+      
 
 ### Core competences
 
