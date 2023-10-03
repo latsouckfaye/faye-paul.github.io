@@ -2,7 +2,7 @@
 title: "See all"
 ---
 
-# Data Engineering | Machine Learning
+# Data Mining / Engineering 
   - Data wrangling​
      - Data extraction.
         - ETL. | Sql Server.
@@ -12,7 +12,7 @@ title: "See all"
   - Exploratory Data Analysis
      - Univariate / Bivariate / Multivariate analysis.
      - Data Visualization.​
-        - R: FactoMiner, ade4, ggplot2, plotly, etc. | Python: Matplotlib, Seaborn.
+        - Tableau | R: FactoMiner, ade4, ggplot2, plotly, etc. | Python: Matplotlib, Seaborn.
   - Supervised / Unsupervised Learning
      - Regression: Linear models, Random Forest, SVM, Kriging, etc.
      - Classification: Logistic Regression, Decision trees, Random Forest, etc.
