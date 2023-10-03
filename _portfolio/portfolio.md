@@ -2,7 +2,7 @@
 title: "See all"
 ---
 
-# Data Mining / Engineering 
+# Data Engineering | Machine Learning
   - Data wrangling​
      - Data extraction.
         - ETL. | Sql Server.
