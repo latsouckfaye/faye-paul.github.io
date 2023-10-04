@@ -113,18 +113,18 @@ title: "See all"
 ## Spatial data analysis and visualization
 
 I have developed convenience functions to create, visualize and compare geomorphological maps. The example below compare two maps (labelled grid cells) with different resolutions. The higher one is disaggregated to match the lower one and grid cells are compared according to their labels. A match value (Yes) corresponding to an agreement score between  the two maps is then calculated.
-![Screenshot Spatial data visualization](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Mapmorph1.png?raw=true){: .align-center width="400px"}
-![Screenshot Spatial data visualization](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Mapmorph2.png?raw=true){: .align-center width="300px"}
+![Screenshot Spatial data visualization](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Mapmorph1.png?raw=true){: .align-center width="600px" height="500px"}
+![Screenshot Spatial data visualization](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Mapmorph2.png?raw=true){: .align-center width="500px" height="500px"}
 
 
 ## Website for event equipment leasing
-This site propose to customers to buy or lease event's products and services. 
-![Screenshot Evenemential website](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Bobazar.png?raw=true){: .align-center width="800px" height = "500px"}
+This site propose to customers to buy or lease event's products and services. Consumers can fill in a shopping basket and place an order.
+![Screenshot Evenemential website](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Bobazar.png?raw=true){: .align-center width="700px" height = "600px"}
 
 
 ## Web application for quantitative data analysis
 This application is developped using the Rshiny framework. The dashboard provides convenience tools to analyze quantitative data. Some factorial analysis methods are implemented within it. Results can be plotted and downloaded.
-![Screenshot Rshiny app for quantitative data analysis](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/RShinyApp.png?raw=true){: .align-center width="800px"}
+![Screenshot Rshiny app for quantitative data analysis](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/RShinyApp.png?raw=true){: .align-center width="700px" height = "600px"}
 
 
 # Recent communications
@@ -135,7 +135,7 @@ This application is developped using the Rshiny framework. The dashboard provide
 
 ## Doctoral students' seminar at Institut Montpelliérain Alexander Grothendieck (IMAG) [Montpellier, 2023]
 During a 45-minute presentation, I presented the results of my thesis research on a statistical approach for automatically generating geomorphological maps. The proposed methodology was applied to real data collected on a coral reef bank. 
-![Doctoral Seminar - IMAG](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/SemDoc.png?raw=true){: .align-center width="700px"}
+![Doctoral Seminar - IMAG](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/SemDoc.png?raw=true){: .align-center width="500px", height ="500px"}
 
 ## 20th International Workshop in Spatial Econometrics and Statistics (SEW2022), [Lille, 2022]
 - Poster presentation
