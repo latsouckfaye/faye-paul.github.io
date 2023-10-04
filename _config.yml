@@ -83,8 +83,8 @@ author:
   name             : "Paul FAYE"
   avatar           : "cvPhoto1.jpg"
   bio              : "Data | Engineering & Analytics"
-  location         : "Montpellier, France"
-  employer         : #"University of Montpellier"
+  location         : #"Montpellier, France"
+  employer         : "Montpellier, France"
   pubmed           : 
   googlescholar    : 
   email            : "paul-aime-latsouck.faye@umontpellier.fr"
