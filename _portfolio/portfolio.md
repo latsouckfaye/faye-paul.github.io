@@ -16,9 +16,9 @@ title: "See all"
      - Reporting.
         - Tableau. | RShiny, Flexdashboard. 
   - Machine Learning: Supervised / Unsupervised Learning
+     - Dimensionality Reduction: Factorial analysis (PCA, MFA, FAMD, etc.), NMDS, etc.
      - Regression: Linear models, Random Forest, SVM, Kriging, etc.
      - Classification: Logistic Regression, Decision trees, Random Forest, etc.
-     - Dimensionality Reduction: Factorial analysis (PCA, MFA, FAMD, etc.), NMDS, etc.
      - Clustering: HCPC, KNN, K-MEANS, CLARA, etc. 
         -  R: caret, randomforest, cluster, e1071, rpart, etc. | Python: Scikit learn, TensorFlow. | Azure Machine Learning Studio.
   - Parallel Computing​
@@ -111,7 +111,7 @@ title: "See all"
 
 ## Spatial data analysis and visualization
 
-I have developed convenience functions to create, visualize and compare maps. The example below compare two maps (labelled grid cells) with different resolutions. The smaller one is disaggregated to match the greater one and grid cells are compared according to their labels. A match ratio is then calculated.
+I have developed convenience functions to create, visualize and compare geomorphological maps. The example below compare two maps (labelled grid cells) with different resolutions. The smaller one is disaggregated to match the greater one and grid cells are compared according to their labels. A match ratio is then calculated.
 ![Screenshot Spatial data visualization](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Mapmorph.png?raw=true){: .align-center width="500px"}
 
 
@@ -121,7 +121,7 @@ This site propose to customers to buy or lease event's products and services.
 
 
 ## Web application for quantitative data analysis
-This application is developped using the Rshiny framework. It provides tools to analyze quantitative data. Factorial analysis methods are implemented within it. Output graphics can be plotted and downloaded.
+This application is developped using the Rshiny framework. The dashboard provides convenience tools to analyze quantitative data. Some factorial analysis methods are implemented within it. Results can be plotted and downloaded.
 ![Screenshot Rshiny app for quantitative data analysis](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/RShinyApp.png?raw=true){: .align-center width="700px"}
 
 
