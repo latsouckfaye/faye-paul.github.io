@@ -21,10 +21,11 @@ title: "See all"
      - Classification: Logistic Regression, Decision trees, Random Forest, etc.
      - Clustering: HCPC, KNN, K-MEANS, CLARA, etc. 
         -  R: caret, randomforest, cluster, e1071, rpart, etc. | Python: Scikit learn, TensorFlow. | Azure Machine Learning Studio.
-  - Parallel Computing​
-     - R: Parallel, Multidyplr​. | Python:
-  - High Performance Computing (HPC)​
-     - Cluster meso@LR |  
+  - Big data 
+     - Parallel Computing​
+        - R: Parallel, Multidyplr​. | Python:
+     - High Performance Computing (HPC)​
+        - Cluster meso@LR |  
 
 # Stack
 
