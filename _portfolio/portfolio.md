@@ -11,14 +11,16 @@ title: "See all"
         - R: tidyverse, dyplr, stringr, etc. | Python: Numpy, Pandas, SciPy.
   - Exploratory Data Analysis
      - Univariate / Bivariate / Multivariate analysis.
-     - Data Visualization & Reporting
-        - Tableau | R: FactoMiner, ade4, ggplot2, plotly, etc. | Python: Matplotlib, Seaborn.
+     - Data Visualization.
+        - R: FactoMiner, ade4, ggplot2, plotly, etc. | Python: Matplotlib, Seaborn.
+     - Reporting.
+        - Tableau. | RShiny, Flexdashboard. 
   - Machine Learning: Supervised / Unsupervised Learning
      - Regression: Linear models, Random Forest, SVM, Kriging, etc.
      - Classification: Logistic Regression, Decision trees, Random Forest, etc.
      - Dimensionality Reduction: Factorial analysis (PCA, MFA, FAMD, etc.), NMDS, etc.
      - Clustering: HCPC, KNN, K-MEANS, CLARA, etc. 
-        -  R: caret, randomforest, cluster, e1071, rpart, etc. | Python: Scikit learn, TensorFlow.
+        -  R: caret, randomforest, cluster, e1071, rpart, etc. | Python: Scikit learn, TensorFlow. | Azure Machine Learning Studio.
   - Parallel Computing​
      - R: Parallel, Multidyplr​. | Python:
   - High Performance Computing (HPC)​
