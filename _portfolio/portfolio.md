@@ -2,18 +2,18 @@
 title: "See all"
 ---
 
-# Data Engineering | Machine Learning
-  - Data wrangling​
+# Data skills
+  - Data Mining
      - Data extraction.
         - ETL. | Sql Server.
-     - Data cleaning, Missing data handling / imputation, Outliers handling.
+     - Data wrangling: Cleaning, Missing data imputation, Outliers handling.
      - Feature engineering.
         - R: tidyverse, dyplr, stringr, etc. | Python: Numpy, Pandas, SciPy.
   - Exploratory Data Analysis
      - Univariate / Bivariate / Multivariate analysis.
-     - Data Visualization.​
+     - Data Visualization & Reporting
         - Tableau | R: FactoMiner, ade4, ggplot2, plotly, etc. | Python: Matplotlib, Seaborn.
-  - Supervised / Unsupervised Learning
+  - Machine Learning: Supervised / Unsupervised Learning
      - Regression: Linear models, Random Forest, SVM, Kriging, etc.
      - Classification: Logistic Regression, Decision trees, Random Forest, etc.
      - Dimensionality Reduction: Factorial analysis (PCA, MFA, FAMD, etc.), NMDS, etc.
@@ -22,10 +22,9 @@ title: "See all"
   - Parallel Computing​
      - R: Parallel, Multidyplr​. | Python:
   - High Performance Computing (HPC)​
-     - Cluster meso@LR | 
-      
+     - Cluster meso@LR |  
 
-# Core competences
+# Stack
 
 <table style="color: #000; background-color:#fff">
 <tbody>
@@ -103,7 +102,7 @@ title: "See all"
 
 + [Machine Learning with Scikit Learn​](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/files/MLscikitLearn.pdf)
 
-+ [R Package development​](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/files/Attestation_Formation_RdevPkg.pdf)
++ [R Package Development​](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/files/Attestation_Formation_RdevPkg.pdf)
 
 ​
 # Key projects
