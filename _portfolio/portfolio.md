@@ -117,20 +117,21 @@ I have developed convenience functions to create, visualize and compare geomorph
 ![Screenshot Spatial data visualization](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Mapmorph2.png?raw=true){: .align-center width="500px" height="500px"}
 
 
-## Website for event equipment leasing
+## Website for event equipment and services
 This site propose to customers to buy or lease event's products and services. Consumers can fill in a shopping basket and place an order.
 ![Screenshot Evenemential website](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Bobazar.png?raw=true){: .align-center width="700px" height = "600px"}
 
 
 ## Web application for quantitative data analysis
-This application is developped using the Rshiny framework. The dashboard provides convenience tools to analyze quantitative data. Some factorial analysis methods are implemented within it. Results can be plotted and downloaded.
+This application is developped using the Rshiny framework. The dashboard provides convenience tools to analyze quantitative data. Results can be plotted and downloaded.
 ![Screenshot Rshiny app for quantitative data analysis](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/RShinyApp.png?raw=true){: .align-center width="700px" height = "600px"}
 
 
 # Recent communications
 
 ## 54th SFDS Statistics Days [Brussels, 2023] 
-15 minutes of presentation of recent results of my research work. 
+A brief 15 minutes presentation of my research was presented ate this event. I've talked about geomorphologic maps using machine learning approach and present the results obtained
+ on real data.
 ![JDS - 54](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/JDS54.png?raw=true){: .align-center width="500px"}
 
 ## Doctoral students' seminar at Institut Montpelliérain Alexander Grothendieck (IMAG) [Montpellier, 2023]
