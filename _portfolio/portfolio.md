@@ -112,13 +112,14 @@ title: "See all"
 
 ## Spatial data analysis and visualization
 
-I have developed convenience functions to create, visualize and compare geomorphological maps. The example below compare two maps (labelled grid cells) with different resolutions. The smaller one is disaggregated to match the greater one and grid cells are compared according to their labels. A match ratio is then calculated.
-![Screenshot Spatial data visualization](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Mapmorph.png?raw=true){: .align-center width="600px"}
+I have developed convenience functions to create, visualize and compare geomorphological maps. The example below compare two maps (labelled grid cells) with different resolutions. The higher one is disaggregated to match the lower one and grid cells are compared according to their labels. A match value (Yes) corresponding to an agreement score between  the two maps is then calculated.
+![Screenshot Spatial data visualization](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Mapmorph1.png?raw=true){: .align-center width="400px"}
+![Screenshot Spatial data visualization](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Mapmorph2.png?raw=true){: .align-center width="300px"}
 
 
 ## Website for event equipment leasing
 This site propose to customers to buy or lease event's products and services. 
-![Screenshot Evenemential website](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Bobazar.png?raw=true){: .align-center width="800px"}
+![Screenshot Evenemential website](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Bobazar.png?raw=true){: .align-center width="800px" height = "500px"}
 
 
 ## Web application for quantitative data analysis
@@ -133,9 +134,11 @@ This application is developped using the Rshiny framework. The dashboard provide
 ![JDS - 54](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/JDS54.png?raw=true){: .align-center width="500px"}
 
 ## Doctoral students' seminar at Institut Montpelliérain Alexander Grothendieck (IMAG) [Montpellier, 2023]
-45 minutes of presentation of recent results of my research work. 
+During a 45-minute presentation, I presented the results of my thesis research on a statistical approach for automatically generating geomorphological maps. The proposed methodology was applied to real data collected on a coral reef bank. 
 ![Doctoral Seminar - IMAG](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/SemDoc.png?raw=true){: .align-center width="700px"}
 
 ## 20th International Workshop in Spatial Econometrics and Statistics (SEW2022), [Lille, 2022]
-Poster presentation, guests reception and orientation.
+- Poster presentation
+- Guests reception and orientation
+The screenshot below shows the poster I presented at this event. I describes and demonstrated the various stages of a methodology for producing geomorphological maps based on Machine Learning models. 
 ![20th International Workshop in Spatial Econometrics and Statistics](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/posterSEW.png?raw=true){: .align-center width="500px"}
