@@ -113,29 +113,29 @@ title: "See all"
 ## Spatial data analysis and visualization
 
 I have developed convenience functions to create, visualize and compare geomorphological maps. The example below compare two maps (labelled grid cells) with different resolutions. The smaller one is disaggregated to match the greater one and grid cells are compared according to their labels. A match ratio is then calculated.
-![Screenshot Spatial data visualization](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Mapmorph.png?raw=true){: .align-center width="500px"}
+![Screenshot Spatial data visualization](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Mapmorph.png?raw=true){: .align-center width="600px"}
 
 
 ## Website for event equipment leasing
 This site propose to customers to buy or lease event's products and services. 
-![Screenshot Evenemential website](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Bobazar.png?raw=true){: .align-center width="700px"}
+![Screenshot Evenemential website](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Bobazar.png?raw=true){: .align-center width="800px"}
 
 
 ## Web application for quantitative data analysis
 This application is developped using the Rshiny framework. The dashboard provides convenience tools to analyze quantitative data. Some factorial analysis methods are implemented within it. Results can be plotted and downloaded.
-![Screenshot Rshiny app for quantitative data analysis](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/RShinyApp.png?raw=true){: .align-center width="700px"}
+![Screenshot Rshiny app for quantitative data analysis](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/RShinyApp.png?raw=true){: .align-center width="800px"}
 
 
 # Recent communications
 
 ## 54th SFDS Statistics Days [Brussels, 2023] 
 15 minutes of presentation of recent results of my research work. 
-![JDS - 54](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/JDS54.png?raw=true){: .align-center width="400px"}
+![JDS - 54](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/JDS54.png?raw=true){: .align-center width="500px"}
 
 ## Doctoral students' seminar at Institut Montpelliérain Alexander Grothendieck (IMAG) [Montpellier, 2023]
 45 minutes of presentation of recent results of my research work. 
-![Doctoral Seminar - IMAG](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/SemDoc.png?raw=true){: .align-center width="500px"}
+![Doctoral Seminar - IMAG](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/SemDoc.png?raw=true){: .align-center width="700px"}
 
 ## 20th International Workshop in Spatial Econometrics and Statistics (SEW2022), [Lille, 2022]
 Poster presentation, guests reception and orientation.
-![20th International Workshop in Spatial Econometrics and Statistics](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/posterSEW.png?raw=true){: .align-center width="400px"}
+![20th International Workshop in Spatial Econometrics and Statistics](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/posterSEW.png?raw=true){: .align-center width="500px"}
