@@ -128,11 +128,11 @@ This application is developped using the Rshiny framework. The dashboard provide
 # Recent communications
 
 ## 54th SFDS Statistics Days [Brussels, 2023] 
-15 minutes of presentation of some results of my research work. 
+15 minutes of presentation of recent results of my research work. 
 ![JDS - 54](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/JDS54.png?raw=true){: .align-center width="400px"}
 
 ## Doctoral students' seminar at Institut Montpelliérain Alexander Grothendieck (IMAG) [Montpellier, 2023]
-45 minutes of presentation of some results of my research work. 
+45 minutes of presentation of recent results of my research work. 
 ![Doctoral Seminar - IMAG](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/SemDoc.png?raw=true){: .align-center width="500px"}
 
 ## 20th International Workshop in Spatial Econometrics and Statistics (SEW2022), [Lille, 2022]
