@@ -2,26 +2,25 @@
 title: "See all"
 ---
 
-# Data : Engineering & Analytics 
+# Data skills
   - Databases / Data warehouses
      - MySQL, PostgreSQL, DB Browser
   - Data wrangling
      - ETL 
         - SQL Server, Talend
-     - Cleaning : missing data imputation, outliers handling
-     - Data transformation / feature engineering
+     - Cleaning, imputation, outliers handling, transformation
         - R: tidyverse, dyplr, stringr, etc. | Python: Numpy, Pandas, SciPy.
   - Data Analysis
      - Exploration (univariate, bivariate and multivariate analysis)
         - R: FactoMiner, ade4, ggplot2, plotly, etc. | Python: Matplotlib, Seaborn
+     - Visualization / Reporting 
+        - Dashboards : Tableau, RShiny, Flexdashboard | Rmarkdown, Jupyter Notebook. 
      - Machine learning / Statistical modeling
         - Dimensionality Reduction : Factorial analysis (PCA, MFA, FAMD, etc.), NMDS, etc.
         - Regression: Linear models, Random Forest, SVM, Kriging, etc.
         - Classification: Logistic Regression, Decision trees, Random Forest, etc.
         - Clustering: HCPC, KNN, K-MEANS, CLARA, etc. 
-        R: caret, randomforest, cluster, e1071, rpart, etc. | Python: Scikit learn, TensorFlow.
-     - Visualization / Reporting 
-        - Dashboards : Tableau, RShiny, Flexdashboard | Rmarkdown, Jupyter Notebook. 
+            - R: caret, randomforest, cluster, e1071, rpart, etc. | Python: Scikit learn, TensorFlow.
   - Big data 
      - Cloud computing 
         - Azure
@@ -34,6 +33,18 @@ title: "See all"
 
 <table style="color: #000; background-color:#fff">
 <tbody>
+<tr>
+    <td>IDE</td>
+    <td>
+        <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg' alt='Anaconda' width="50" height="50"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="50" height="50"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg?raw=true" alt="rstudio" width="50" height="50"/>
+        <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg' alt='git icon' width="50" height="50" />
+        <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg' alt='GitHub icon' width="50" height="50"/>
+        <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg' alt='vscode' width="50" height="50"/>
+        <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/GoogleColab.png?raw=true" alt='google colab' width="50" height="50"/>
+    </td>
+</tr>
 <tr>
     <td>Data science</td>
     <td>
@@ -67,18 +78,7 @@ title: "See all"
         <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/PhpMyAdmin.png?raw=true" alt="PhpMyAdmin" width="50" height="50"/>
     </td>
 </tr>
-<tr>
-    <td>IDE</td>
-    <td>
-        <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg' alt='Anaconda' width="50" height="50"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="50" height="50"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg?raw=true" alt="rstudio" width="50" height="50"/>
-        <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg' alt='git icon' width="50" height="50" />
-        <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg' alt='GitHub icon' width="50" height="50"/>
-        <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg' alt='vscode' width="50" height="50"/>
-        <img src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/GoogleColab.png?raw=true" alt='google colab' width="50" height="50"/>
-    </td>
-</tr>
+
 <tr>
     <td>Communication</td>
     <td>
