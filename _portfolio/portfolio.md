@@ -2,30 +2,33 @@
 title: "See all"
 ---
 
-# Data skills
-  - Data Mining
-     - Data extraction.
-        - ETL. | Sql Server.
-     - Data wrangling: Cleaning, Missing data imputation, Outliers handling.
-     - Feature engineering.
+# Data : Engineering & Analytics 
+  - Databases / Data warehouses
+     - MySQL, PostgreSQL, DB Browser
+  - Data wrangling
+     - ETL 
+        - SQL Server, Talend
+     - Cleaning : missing data imputation, outliers handling
+     - Data transformation / feature engineering
         - R: tidyverse, dyplr, stringr, etc. | Python: Numpy, Pandas, SciPy.
-  - Exploratory Data Analysis
-     - Univariate / Bivariate / Multivariate analysis.
-     - Data Visualization.
-        - R: FactoMiner, ade4, ggplot2, plotly, etc. | Python: Matplotlib, Seaborn.
-     - Reporting.
-        - Tableau. | RShiny, Flexdashboard. 
-  - Machine Learning: Supervised / Unsupervised Learning
-     - Dimensionality Reduction: Factorial analysis (PCA, MFA, FAMD, etc.), NMDS, etc.
-     - Regression: Linear models, Random Forest, SVM, Kriging, etc.
-     - Classification: Logistic Regression, Decision trees, Random Forest, etc.
-     - Clustering: HCPC, KNN, K-MEANS, CLARA, etc. 
-        -  R: caret, randomforest, cluster, e1071, rpart, etc. | Python: Scikit learn, TensorFlow. | Azure Machine Learning Studio.
+  - Data Analysis
+     - Exploration (univariate, bivariate and multivariate analysis)
+        - R: FactoMiner, ade4, ggplot2, plotly, etc. | Python: Matplotlib, Seaborn
+     - Machine learning / Statistical modeling
+        - Dimensionality Reduction : Factorial analysis (PCA, MFA, FAMD, etc.), NMDS, etc.
+        - Regression: Linear models, Random Forest, SVM, Kriging, etc.
+        - Classification: Logistic Regression, Decision trees, Random Forest, etc.
+        - Clustering: HCPC, KNN, K-MEANS, CLARA, etc. 
+        R: caret, randomforest, cluster, e1071, rpart, etc. | Python: Scikit learn, TensorFlow.
+     - Visualization / Reporting 
+        - Dashboards : Tableau, RShiny, Flexdashboard | Rmarkdown, Jupyter Notebook. 
   - Big data 
-     - Parallel Computing​
-        - R: Parallel, Multidyplr​. | Python:
-     - High Performance Computing (HPC)​
-        - Cluster meso@LR |  
+     - Cloud computing 
+        - Azure
+     - High Performance Computing
+        - HPC cluster : meso@LR 
+     - Parallel computing 
+        - R: Parallel, Multidyplr​.
 
 # Stack
 
