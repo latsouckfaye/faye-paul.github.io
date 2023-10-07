@@ -7,7 +7,7 @@ title: "See all"
      - MySQL, PostgreSQL, DB Browser
   - Data wrangling
      - ETL 
-        - SQL Server, Talend
+        - SQL Server
      - Cleaning, imputation, outliers handling, transformation
         - R: tidyverse, dyplr, stringr, etc. | Python: Numpy, Pandas, SciPy.
   - Data Analysis
