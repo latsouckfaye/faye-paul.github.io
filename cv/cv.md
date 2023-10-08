@@ -8,4 +8,5 @@ author_profile: true
 ---
 
 
-![CV [French] short version](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/file/CV_PAF.pdf?raw=true) 
+CV short version
+[French](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/files/CV_PAF.pdf) 
