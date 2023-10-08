@@ -7,7 +7,6 @@ author_profile: true
   #- /resume
 ---
 
-
 CV short version
 
 [French](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/files/CV_PAF.pdf)
