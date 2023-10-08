@@ -11,3 +11,12 @@ author_profile: true
 CV short version
 
 [French](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/files/CV_PAF.pdf)
+
+[English](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/files/CV_PAF.pdf)
+
+
+CV long version
+
+[French](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/files/ResumeLongPAF.pdf)
+
+[English](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/files/CV_PAF.pdf)
