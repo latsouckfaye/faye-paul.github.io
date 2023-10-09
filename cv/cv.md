@@ -11,3 +11,5 @@ CV short version
 
 [French](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/files/CV_PAF.pdf)
 
+[English](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/files/CV_PAF_EN.pdf)
+
