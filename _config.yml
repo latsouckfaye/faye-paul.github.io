@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Paul FAYE"
   avatar           : "cvPhoto1.jpg"
-  bio              : "Data | Engineering & Analytics"
-  location         : #"Montpellier, France"
-  employer         : "Montpellier, France"
+  bio              : "Data scientist"
+  location         : #"Lille, France"
+  employer         : "University of Lille, France"
   pubmed           : 
   googlescholar    : 
-  email            : "paul-aime-latsouck.faye@umontpellier.fr"
+  email            : "pfaye@univ-lille.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
