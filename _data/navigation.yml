@@ -10,7 +10,7 @@ main:
 
   - title: "Publications"
     # url: /publications/
-    url: https://link.springer.com/article/10.1007/s12145-024-01347-x
+    # url: https://link.springer.com/article/10.1007/s12145-024-01347-x
         
   # - title: "Blog Posts"
   #   url: /year-archive/
@@ -19,7 +19,7 @@ main:
   #   url: /talks/    
 
     - title: "Teaching"
-  #   url: /teaching/    
+    url: /teaching/    
     
   # - title: "Guide"
   #   url: /markdown/
