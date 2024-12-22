@@ -130,20 +130,3 @@ This site propose to customers to buy or lease event's products and services. Co
 This application is developped using the Rshiny framework. The dashboard provides convenience tools to analyze quantitative data. Results can be plotted and downloaded.
 ![Screenshot Rshiny app for quantitative data analysis](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/RShinyApp.png?raw=true){: .align-center width="700px" height = "600px"}
 
-
-# Recent communications
-
-## 54th SFDS Statistics Days [Brussels, 2023] 
-A brief 15 minutes presentation of my research was presented ate this event. I've talked about geomorphologic maps using machine learning approach and present the results obtained
- on real data.
-![JDS - 54](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/JDS54.png?raw=true){: .align-center width="500px"}
-
-## Doctoral students' seminar at Institut Montpelliérain Alexander Grothendieck (IMAG) [Montpellier, 2023]
-During a 45-minute presentation, I presented the results of my thesis research on a statistical approach for automatically generating geomorphological maps. The proposed methodology was applied to real data collected on a coral reef bank. 
-![Doctoral Seminar - IMAG](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/SemDoc.png?raw=true){: .align-center width="500px", height ="500px"}
-
-## 20th International Workshop in Spatial Econometrics and Statistics (SEW2022), [Lille, 2022]
-- Poster presentation
-- Guests reception and orientation
-The screenshot below shows the poster I presented at this event. I describes and demonstrated the various stages of a methodology for producing geomorphological maps based on Machine Learning models. 
-![20th International Workshop in Spatial Econometrics and Statistics](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/posterSEW.png?raw=true){: .align-center width="500px"}
