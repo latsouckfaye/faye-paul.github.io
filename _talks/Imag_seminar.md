@@ -1,5 +1,5 @@
 ---
-title: " Doctoral students' seminar"
+title: "Automatic geomorphological mapping"
 collection: talks
 type: "Talk"
 permalink: /talks/Imag_seminar
