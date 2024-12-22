@@ -7,7 +7,9 @@ author_profile: true
   #- /resume
 ---
 
-CV short version
+Curriculum Vitae
 
-[French](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/files/CV_PAF.pdf)
+[1 page](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/files/CV_PAF.pdf)
+
+[Complete](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/files/CV_PAF_Long.pdf)
 
