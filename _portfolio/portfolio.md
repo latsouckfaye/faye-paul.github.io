@@ -2,33 +2,6 @@
 title: "See all"
 ---
 
-# Data skills
-  - Databases / Data warehouses
-     - MySQL, PostgreSQL, DB Browser
-  - Data wrangling
-     - ETL 
-        - SQL Server
-     - Cleaning, imputation, outliers handling, transformation
-        - R: tidyverse, dyplr, stringr, etc. | Python: Numpy, Pandas, SciPy.
-  - Data Analysis
-     - Exploration (univariate, bivariate and multivariate analysis)
-        - R: FactoMiner, ade4, ggplot2, plotly, etc. | Python: Matplotlib, Seaborn
-     - Visualization / Reporting 
-        - Dashboards : Tableau, RShiny, Flexdashboard | Rmarkdown, Jupyter Notebook. 
-     - Machine learning / Statistical modeling
-        - Dimensionality Reduction : Factorial analysis (PCA, MFA, FAMD, etc.), NMDS, etc.
-        - Regression: Linear models, Random Forest, SVM, Kriging, etc.
-        - Classification: Logistic Regression, Decision trees, Random Forest, etc.
-        - Clustering: HCPC, KNN, K-MEANS, CLARA, etc. 
-            - R: caret, randomforest, cluster, e1071, rpart, etc. | Python: Scikit learn, TensorFlow.
-  - Big data 
-     - Cloud computing 
-        - Azure
-     - High Performance Computing
-        - HPC cluster : meso@LR 
-     - Parallel computing 
-        - R: Parallel, Multidyplr​.
-
 # Stack
 
 <table style="color: #000; background-color:#fff">
@@ -97,6 +70,34 @@ title: "See all"
 </tr>
 </tbody>
 </table>
+
+
+# Skills
+  - Databases / Data warehouses
+     - MySQL, PostgreSQL, DB Browser
+  - Data wrangling
+     - ETL 
+        - SQL Server
+     - Cleaning, imputation, outliers handling, transformation
+        - R: tidyverse, dyplr, stringr, etc. | Python: Numpy, Pandas, SciPy.
+  - Data Analysis
+     - Exploration (univariate, bivariate and multivariate analysis)
+        - R: FactoMiner, ade4, ggplot2, plotly, etc. | Python: Matplotlib, Seaborn
+     - Visualization / Reporting 
+        - Dashboards : Tableau, RShiny, Flexdashboard | Rmarkdown, Jupyter Notebook. 
+     - Machine learning / Statistical modeling
+        - Dimensionality Reduction : Factorial analysis (PCA, MFA, FAMD, etc.), NMDS, etc.
+        - Regression: Linear models, Random Forest, SVM, Kriging, etc.
+        - Classification: Logistic Regression, Decision trees, Random Forest, etc.
+        - Clustering: HCPC, KNN, K-MEANS, CLARA, etc. 
+            - R: caret, randomforest, cluster, e1071, rpart, etc. | Python: Scikit learn, TensorFlow.
+  - Big data 
+     - Cloud computing 
+        - Azure
+     - High Performance Computing
+        - HPC cluster : meso@LR 
+     - Parallel computing 
+        - R: Parallel, Multidyplr​.
 
 # Certificates 
 
