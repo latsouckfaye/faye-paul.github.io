@@ -83,7 +83,7 @@ author:
   name             : "Paul FAYE"
   avatar           : "cvPhoto1.jpg"
   bio              : "Data scientist"
-  location         : #"Lille, France"
+ # location         : "Lille, France"
   employer         : "University of Lille, France"
   pubmed           : 
   googlescholar    : 
