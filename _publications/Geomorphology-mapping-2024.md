@@ -16,4 +16,7 @@ zenodo.8436795).
 
 [Download paper here](https://hal.science/hal-04624799/file/Revision_ESI-2.pdf)
 
+
+[R Package Development​](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Fig8.pdf)
+
 Recommended citation: Faye, P.A.L., Brunel, E., Claverie, T. et al. Automatic geomorphological mapping using ground truth data with coverage sampling and random forest algorithms. Earth Sci Inform 17, 3715–3732 (2024).
