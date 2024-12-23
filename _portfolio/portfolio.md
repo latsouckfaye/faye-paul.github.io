@@ -110,3 +110,5 @@ This site propose to customers to buy or lease event's products and services. Co
 This application is developped using the Rshiny framework. The dashboard provides convenience tools to analyze quantitative data. Results can be plotted and downloaded.
 ![Screenshot Rshiny app for quantitative data analysis](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/RShinyApp.png?raw=true)
 
+
+# Micro projects
