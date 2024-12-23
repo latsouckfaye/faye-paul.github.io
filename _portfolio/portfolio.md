@@ -72,8 +72,8 @@ This portfolio showcases a collection of my Data Science and Data Analysis proje
 </table>
 
 
-# Data skills
-+ Machine learning:
+# Skills
++ Machine learning :
   - Regression: Linear models, Random Forest, SVM, Kriging
   - Classification: Logistic Regression, Decision trees, Random Forest, etc.
   - Clustering: HCPC, KNN, K-MEANS, CLARA
@@ -86,11 +86,13 @@ This portfolio showcases a collection of my Data Science and Data Analysis proje
   - Tools R: tidyverse, dyplr, stringr
   - Tools Python: Numpy, Pandas, SciPy
 + Data Analysis: Univariate, bivariate and multivariate analysis
-  - Tools R: FactoMiner, ade4, ggplot2, plotly | Python: Matplotlib, Seaborn
+  - Tools R: FactoMiner, ade4, ggplot2, plotly
+  - Tools Python: Matplotlib, Seaborn
 + Data Visualization and Reporting
   - Tools: Tableau, RShiny, Flexdashboard, Rmarkdown, Jupyter Notebook.
 + Big data: Cloud computing with Azure, High Performance Computing
-  - Tools: HPC cluster (meso@LR), Parallel computing (Parallel, Multidyplr​)
+  - HPC cluster: meso@LR
+  - Parallel computing: Parallel, Multidyplr
 
 # Certificates 
 
