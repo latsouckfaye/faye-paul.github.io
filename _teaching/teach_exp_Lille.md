@@ -1,10 +1,10 @@
 ---
 title: "University of Lille [Click here]"
 collection: teaching
-type: "Lectures and Tutorials"
+type: "Lectures, tutorials and practical work"
 permalink: /teaching/teach_exp_Lille
 venue: "University of Lille, Site Roubaix"
-date: 2023-01-01 - Now
+date: 2023-11-01 - 2024-08-31 
 location: "Roubaix, France"
 ---
 
