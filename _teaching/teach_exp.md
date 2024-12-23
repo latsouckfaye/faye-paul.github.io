@@ -41,12 +41,33 @@ Degree: BUT, 2nd year
 
 Specialization: Data Science
 
+## Probability Calculation
+
+Degree: Bachelor's, 1st year
+
+Specialization: Biology
+
+Type: Tutorials
+
+## Stochastic Modeling
+
+Degree: Bachelor's, 3rd year
+
+Specialization: Mathematics
+
+Type: Practical Work
+
 # Pedagogical experiences
 
-## Dataviz Challenge Days / Hackathon
+## Dataviz Challenge Days
 
 Degree: BUT, 1st year
 
 Specialization: Data Science
 
+## Hackathon
+
+Degree: BUT, 1st year
+
+Specialization: Data Science
 
