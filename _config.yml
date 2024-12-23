@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Paul FAYE"
+title                    : "Homepage"
 title_separator          : "_"
 name                     : &name "Paul FAYE"
 description              : &description "personal description"
