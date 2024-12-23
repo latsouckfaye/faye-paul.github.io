@@ -3,18 +3,37 @@ title: "Teaching experience"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/teach.exp
-#venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+#venue: "University of Lille, BUT Science des données"
+date: 2023-01-2023
+location: "Lille, France"
 ---
+Descriptive Statistics
+Degree: BUT, 1st year
+Specialization: Data Science
+Type: Practical Work
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Statistical Programming in R
+Degree: BUT, 1st year
+Specialization: Data Science
+Type: Lectures, Tutorials, and Practical Work
 
-Heading 1
-======
+Linear Models
+Degree: BUT, 2nd year
+Specialization: Data Science
+Type: Lectures and Tutorials
 
-Heading 2
-======
+Statistical Data Analysis
+Degree: Professional Bachelor's, 3rd year
+Specializations: Management Control / E-commerce / B2B / Procurement and Supply Chain Management / Real Estate / International Law
+Type: Lectures, Tutorials, and Practical Work in Excel
 
-Heading 3
-======
+Probability Calculation
+Degree: Bachelor's, 1st year
+Specialization: Biology
+Type: Tutorials
+
+Stochastic Modeling
+Degree: Bachelor's, 3rd year
+Specialization: Mathematics
+Type: Practical Work
+
