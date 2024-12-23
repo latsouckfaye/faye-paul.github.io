@@ -1,13 +1,14 @@
 ---
 title: "University of Lille [Click here]"
 collection: teaching
-type: "Statistics"
+type: "Courses"
 permalink: /teaching/teach_exp_LP
 venue: "University of Lille, Site Roubaix"
 date: 2024-01-01
 location: "Roubaix, France"
 ---
 
+# Statistics
 ## Statistical Data Analysis
 
 Degree: Professional Bachelor's, 3rd year
