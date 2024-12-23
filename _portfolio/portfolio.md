@@ -73,12 +73,21 @@ This portfolio showcases a collection of my Data Science and Data Analysis proje
 
 
 # Competencies 
-+ Machine learning: Dimensionality Reduction : Factorial analysis (PCA, MFA, FAMD, etc.), NMDS, etc; Regression (Linear models, Random Forest, SVM, Kriging, etc.); Classification: Logistic Regression, Decision trees, Random Forest, etc. ; Clustering: HCPC, KNN, K-MEANS, CLARA, etc. (R: caret, randomforest, cluster, e1071, rpart, etc.; Python: Scikit learn, TensorFlow.)
-+ Databases and warehouses (MySQL, PostgreSQL, DB Browser)
- Data wrangling: ETL (SQL Server), cleaning, imputation, outliers handling, transformation (R: tidyverse, dyplr, stringr; Python: Numpy, Pandas, SciPy.)
-+ Data Analysis: Univariate, bivariate and multivariate analysis (R: FactoMiner, ade4, ggplot2, plotly,; Python: Matplotlib, Seaborn)
-+ Data Visualization and Reporting (Dashboards : Tableau, RShiny, Flexdashboard, Rmarkdown, Jupyter Notebook.)
-+ Big data : Cloud computing with Azure, High Performance Computing (HPC cluster : meso@LR); Parallel computing (R: Parallel, Multidyplr​.)
++ Machine learning:
+  - Regression: Linear models, Random Forest, SVM, Kriging
+  - Classification: Logistic Regression, Decision trees, Random Forest, etc.
+  - Clustering: HCPC, KNN, K-MEANS, CLARA
+  - Dimensionality Reduction : Factorial analysis (PCA, MFA, FAMD), NMDS
+R: caret, randomforest, cluster, e1071, rpart, etc. | Python: Scikit learn, TensorFlow
++ Database & Datawarehouses: MySQL, PostgreSQL, DB Browser
++ Data wrangling: ETL (SQL Server), cleaning, imputation, outliers handling, transformation
+R: tidyverse, dyplr, stringr  | Python: Numpy, Pandas, SciPy.
++ Data Analysis: Univariate, bivariate and multivariate analysis
+R: FactoMiner, ade4, ggplot2, plotly | Python: Matplotlib, Seaborn
++ Data Visualization and Reporting
+Tableau, RShiny, Flexdashboard, Rmarkdown, Jupyter Notebook.
++ Big data: Cloud computing with Azure, High Performance Computing
+HPC cluster: meso@LR | Parallel computing: Parallel, Multidyplr​
 
 # Certificates 
 
