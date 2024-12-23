@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching and pedagogical experience"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/teach_exp
