@@ -9,7 +9,9 @@ location: "Roubaix, France"
 ---
 
 # Statistics
-## Statistical Data Analysis
+
+
+Statistical Data Analysis
 
 Degree: Professional Bachelor's, 3rd year
 
