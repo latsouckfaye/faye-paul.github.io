@@ -4,9 +4,10 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/teach.exp
 #venue: "University of Lille, BUT Science des données"
-date: 2023-01-2023
+date: 2023-11-01
 location: "Lille, France"
 ---
+
 Descriptive Statistics
 Degree: BUT, 1st year
 Specialization: Data Science
