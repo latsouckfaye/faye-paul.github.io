@@ -113,6 +113,7 @@ This portfolio showcases a collection of my Data Science and Data Analysis proje
 
 I have developed convenience functions to create, visualize and compare geomorphological maps. The example below compare two maps (labelled grid cells) with different resolutions. The higher one is disaggregated to match the lower one and grid cells are compared according to their labels. A match value (Yes) corresponding to an agreement score between  the two maps is then calculated.
 ![Screenshot Spatial data visualization](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Mapmorph1.png?raw=true)
+
 ![Screenshot Spatial data visualization](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Mapmorph2.png?raw=true)
 
 
