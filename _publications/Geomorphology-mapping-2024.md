@@ -8,4 +8,4 @@ venue: 'Earth Science Informatics'
 paperurl: 'https://doi.org/10.1007/s12145-024-01347-x'
 citation: 'Faye, P.A.L., Brunel, E., Claverie, T. et al. Automatic geomorphological mapping using ground truth data with coverage sampling and random forest algorithms. Earth Sci Inform 17, 3715–3732 (2024).'
 ---
-
+![Doctoral Seminar - IMAG](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Fig8.jpg?raw=true)
