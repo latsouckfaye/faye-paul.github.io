@@ -8,7 +8,7 @@ date: 2022-01-01
 location: "Montpellier, France"
 ---
 
-# Statistics 
+# Probability & Statistics 
 
 **Probability**
 
