@@ -1,7 +1,7 @@
 ---
 title: "Teaching and pedagogical experience"
 collection: teaching
-type: "Undergraduate course"
+type: "Statistics - Data science"
 permalink: /teaching/teach_exp
 venue: "University of Lille, Site Roubaix"
 date: 2023-01-01
