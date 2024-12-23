@@ -72,32 +72,13 @@ This portfolio showcases a collection of my Data Science and Data Analysis proje
 </table>
 
 
-# Skills
-  - Databases / Data warehouses
-     - MySQL, PostgreSQL, DB Browser
-  - Data wrangling
-     - ETL 
-        - SQL Server
-     - Cleaning, imputation, outliers handling, transformation
-        - R: tidyverse, dyplr, stringr, etc. | Python: Numpy, Pandas, SciPy.
-  - Data Analysis
-     - Exploration (univariate, bivariate and multivariate analysis)
-        - R: FactoMiner, ade4, ggplot2, plotly, etc. | Python: Matplotlib, Seaborn
-     - Visualization / Reporting 
-        - Dashboards : Tableau, RShiny, Flexdashboard | Rmarkdown, Jupyter Notebook. 
-     - Machine learning / Statistical modeling
-        - Dimensionality Reduction : Factorial analysis (PCA, MFA, FAMD, etc.), NMDS, etc.
-        - Regression: Linear models, Random Forest, SVM, Kriging, etc.
-        - Classification: Logistic Regression, Decision trees, Random Forest, etc.
-        - Clustering: HCPC, KNN, K-MEANS, CLARA, etc. 
-            - R: caret, randomforest, cluster, e1071, rpart, etc. | Python: Scikit learn, TensorFlow.
-  - Big data 
-     - Cloud computing 
-        - Azure
-     - High Performance Computing
-        - HPC cluster : meso@LR 
-     - Parallel computing 
-        - R: Parallel, Multidyplr​.
+# Competencies 
++ Machine learning: Dimensionality Reduction : Factorial analysis (PCA, MFA, FAMD, etc.), NMDS, etc; Regression (Linear models, Random Forest, SVM, Kriging, etc.); Classification: Logistic Regression, Decision trees, Random Forest, etc. ; Clustering: HCPC, KNN, K-MEANS, CLARA, etc. (R: caret, randomforest, cluster, e1071, rpart, etc. | Python: Scikit learn, TensorFlow.)
++ Databases and warehouses (MySQL, PostgreSQL, DB Browser)
+ Data wrangling: ETL (SQL Server), cleaning, imputation, outliers handling, transformation (R: tidyverse, dyplr, stringr, etc. | Python: Numpy, Pandas, SciPy.)
++ Data Analysis: Univariate, bivariate and multivariate analysis (R: FactoMiner, ade4, ggplot2, plotly, etc. | Python: Matplotlib, Seaborn)
++ Data Visualization and Reporting (Dashboards : Tableau, RShiny, Flexdashboard | Rmarkdown, Jupyter Notebook.)
++ Big data : Cloud computing with Azure, High Performance Computing (HPC cluster : meso@LR); Parallel computing (R: Parallel, Multidyplr​.)
 
 # Certificates 
 
