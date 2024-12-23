@@ -93,21 +93,20 @@ This portfolio showcases a collection of my Data Science and Data Analysis proje
 + [R Package Development​](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/files/Attestation_Formation_RdevPkg.pdf)
 
 ​
-# Key projects
+# Projects
 
-## Spatial data analysis and visualization
+## Spatial data analysis
 
 I have developed convenience functions to create, visualize and compare geomorphological maps. The example below compare two maps (labelled grid cells) with different resolutions. The higher one is disaggregated to match the lower one and grid cells are compared according to their labels. A match value (Yes) corresponding to an agreement score between  the two maps is then calculated.
 ![Screenshot Spatial data visualization](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Mapmorph1.png?raw=true){: .align-center width="600px" height="500px"}
 ![Screenshot Spatial data visualization](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Mapmorph2.png?raw=true){: .align-center width="500px" height="500px"}
 
-
-## Website for event equipment and services
+## Web development
 This site propose to customers to buy or lease event's products and services. Consumers can fill in a shopping basket and place an order.
 ![Screenshot Evenemential website](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Bobazar.png?raw=true){: .align-center width="700px" height = "600px"}
 
 
 ## Web application for quantitative data analysis
 This application is developped using the Rshiny framework. The dashboard provides convenience tools to analyze quantitative data. Results can be plotted and downloaded.
-![Screenshot Rshiny app for quantitative data analysis](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/RShinyApp.png?raw=true){: .align-center width="700px" height = "600px"}
+![Screenshot Rshiny app for quantitative data analysis](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/RShinyApp.png?raw=true)
 
