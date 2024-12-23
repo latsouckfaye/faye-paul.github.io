@@ -3,9 +3,9 @@ title: "Teaching and pedagogical experience"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/teach_exp
-#venue: "University Lille, Department"
-date: 2023-11-01
-location: "France"
+venue: "University of Lille, Site Roubaix"
+date: 2023-01-01
+location: "Roubaix, France"
 ---
 
 # Teaching 
