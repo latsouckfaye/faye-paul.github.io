@@ -1,12 +1,14 @@
 ---
 title: "University of Lille [Click here]"
 collection: teaching
-type: "Data science"
+type: "Lectures and Tutorials"
 permalink: /teaching/teach_exp_Lille
 venue: "University of Lille, Site Roubaix"
 date: 2023-01-01
 location: "Roubaix, France"
 ---
+
+# Data science
 ## Descriptive Statistics
 
 Degree: BUT, 1st year
