@@ -14,7 +14,7 @@ I’m a Data Scientist with a passion for solving complex problems and turning d
 
 🎓 I hold a Master's degree in Applied Mathematics and Computer Science. 
 
-🎓 Currently, I am pursuing a Ph.D. in Biostatistics. My research focuses on contributing to the statistical analysis of geomorphological and spatial compositional data, with an application to studying coral reef communities.
+Currently, I am pursuing a Ph.D. in Biostatistics. My research focuses on contributing to the statistical analysis of geomorphological and spatial compositional data, with an application to studying coral reef communities.
 
 If that sounds fancy, it’s because it is! 🚀
 
