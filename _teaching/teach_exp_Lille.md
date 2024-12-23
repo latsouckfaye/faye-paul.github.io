@@ -1,8 +1,8 @@
 ---
-title: "University of Lille"
+title: "University of Lille [Click here]"
 collection: teaching
 type: "Data science"
-permalink: /teaching/teach_exp
+permalink: /teaching/teach_exp_Lille
 venue: "University of Lille, Site Roubaix"
 date: 2023-01-01
 location: "Roubaix, France"
