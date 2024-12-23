@@ -1,5 +1,5 @@
 ---
-title: "Automatic geomorphological mapping using ground truth data with coverage sampling and random forest algorithms"
+title: "Automatic geomorphological mapping using ground truth data with coverage sampling and random forest algorithms. [Click here]"
 collection: publications
 permalink: /publication/Geomorphology-mapping-2024
 excerpt: ' '
