@@ -8,7 +8,7 @@ date: 2024-09-01
 location: "Roubaix, France"
 ---
 
-# Statistics
+# Descriptive Statistics
 
 **Statistical Data Analysis**
 
