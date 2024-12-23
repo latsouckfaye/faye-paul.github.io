@@ -110,20 +110,17 @@ This portfolio showcases a collection of my Data Science and Data Analysis proje
 # Projects
 
 ## Spatial data analysis
+I have developed a suite of utility functions for creating, visualizing, and comparing geomorphological maps. The example below demonstrates the comparison of two maps with differing resolutions, represented by labeled grid cells. To enable comparison, the higher-resolution map is disaggregated to match the resolution of the lower-resolution map, and grid cells are evaluated based on their labels. An agreement score, labeled as "Match" (Yes), is then calculated to quantify the correspondence between the two maps.
 
-I have developed convenience functions to create, visualize and compare geomorphological maps. The example below compare two maps (labelled grid cells) with different resolutions. The higher one is disaggregated to match the lower one and grid cells are compared according to their labels. A match value (Yes) corresponding to an agreement score between  the two maps is then calculated.
+![Map desaggregation](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Mapmorph1.png?raw=true)
 
-<img align="left" width="250" height="150" src="https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Mapmorph1.png"> **[Screenshot Spatial data visualization]([https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Mapmorph1.png](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Mapmorph1.png)**
-
-![Screenshot Spatial data visualization](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Mapmorph1.png?raw=true)
-
-![Screenshot Spatial data visualization](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Mapmorph2.png?raw=true)
-
+![Map comparisons](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Mapmorph2.png?raw=true)
 
 ## Web application for quantitative data analysis
-This application is developped using the Rshiny framework. The dashboard provides convenience tools to analyze quantitative data. Results can be plotted and downloaded.
-![Screenshot Rshiny app for quantitative data analysis](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/RShinyApp.png?raw=true)
+
+This application is developed using the RShiny framework. The dashboard offers user-friendly tools to analyze quantitative data, allowing users to visualize results through plots and download them for further use.
+![Rshiny app for quantitative data analysis](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/RShinyApp.png?raw=true)
 
 ## Website development
-This site propose to customers to buy or lease event's products and services. Consumers can fill in a shopping basket and place an order.
+This website offers customers a convenient platform to buy or lease a wide range of event products and services. Users can browse the catalog, add items to a shopping basket, and place orders through a secure checkout process. With detailed product options and flexible pricing, it simplifies event planning by providing everything needed in one place.
 ![Screenshot Evenemential website](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Bobazar.png?raw=true)
