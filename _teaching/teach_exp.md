@@ -1,5 +1,11 @@
 ---
-title: "Teaching and pedagical experiences"
+title: "Teaching experience 1"
+collection: teaching
+type: "Undergraduate course"
+permalink: /teaching/teach_exp
+#venue: "University Lille, Department"
+date: 2023-11-01
+location: "France"
 ---
 
 # Teaching 
