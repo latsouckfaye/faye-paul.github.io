@@ -120,7 +120,7 @@ I have developed convenience functions to create, visualize and compare geomorph
 This application is developped using the Rshiny framework. The dashboard provides convenience tools to analyze quantitative data. Results can be plotted and downloaded.
 ![Screenshot Rshiny app for quantitative data analysis](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/RShinyApp.png?raw=true)
 
-## Web development
+## Website development
 This site propose to customers to buy or lease event's products and services. Consumers can fill in a shopping basket and place an order.
 ![Screenshot Evenemential website](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/images/Bobazar.png?raw=true){: .align-center width="700px" height = "600px"}
 
