@@ -1,7 +1,8 @@
 ---
-title: "See all"
+title: "Portfolio"
 ---
 This portfolio showcases a collection of my Data Science and Data Analysis projects completed through academic pursuits, self-learning, and personal interests. It also highlights my achievements, skills, and certifications, with regular updates to reflect my latest work.
+
 # Stack
 
 <table style="color: #000; background-color:#fff">
