@@ -1,5 +1,5 @@
 ---
-title: "Automatic geomorphological mapping"
+title: "Spatial statistics and geomorphological mapping"
 collection: talks
 type: "Talk"
 permalink: /talks/Imag_seminar
