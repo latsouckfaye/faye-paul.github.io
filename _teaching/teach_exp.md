@@ -8,33 +8,33 @@ date: 2023-11-01
 location: "Lille, France"
 ---
 
-Descriptive Statistics
+**Descriptive Statistics**
 Degree: BUT, 1st year
 Specialization: Data Science
 Type: Practical Work
 
-Statistical Programming in R
+**Statistical Programming with R**
 Degree: BUT, 1st year
 Specialization: Data Science
 Type: Lectures, Tutorials, and Practical Work
 
-Linear Models
+**Linear Models**
 Degree: BUT, 2nd year
 Specialization: Data Science
 Type: Lectures and Tutorials
 
-Statistical Data Analysis
+**Statistical Data Analysis**
 Degree: Professional Bachelor's, 3rd year
 Specializations: Management Control / E-commerce / B2B / Procurement and Supply Chain Management / Real Estate / International Law
 Type: Lectures, Tutorials, and Practical Work in Excel
 
-Probability Calculation
-Degree: Bachelor's, 1st year
-Specialization: Biology
-Type: Tutorials
+**Linear Model Project**
+Degree: BUT, 2nd year
+Specialization: Data Science
+Type: Supervision
 
-Stochastic Modeling
-Degree: Bachelor's, 3rd year
-Specialization: Mathematics
-Type: Practical Work
+**Dataviz Challenge Days / Hackathon**
+Degree: BUT, 1st year
+Specialization: Data Science
+Type: Supervision
 
