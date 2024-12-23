@@ -3,6 +3,7 @@ title: "Teaching and pedagical experiences"
 ---
 
 # Teaching 
+
 ## Descriptive Statistics
 
 Degree: BUT, 1st year
