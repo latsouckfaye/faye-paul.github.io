@@ -74,26 +74,23 @@ This portfolio showcases a collection of my Data Science and Data Analysis proje
 
 
 # Skills
-+ Machine learning :
-  - Regression: Linear models, Random Forest, SVM, Kriging
-  - Classification: Logistic Regression, Decision trees, Random Forest, etc.
-  - Clustering: HCPC, KNN, K-MEANS, CLARA
-  - Dimensionality Reduction : Factorial analysis (PCA, MFA, FAMD), NMDS
-  - Tools R: caret, randomforest, cluster, e1071, rpart;
-  - Tools Python: Scikit learn, TensorFlow
-+ Database & Datawarehouses:
-  - MySQL, PostgreSQL, DB Browser
-+ Data wrangling: ETL (SQL Server), cleaning, imputation, outliers handling, transformation
-  - Tools R: tidyverse, dyplr, stringr
-  - Tools Python: Numpy, Pandas, SciPy
-+ Data Analysis: Univariate, bivariate and multivariate analysis
-  - Tools R: FactoMiner, ade4, ggplot2, plotly
-  - Tools Python: Matplotlib, Seaborn
++ Data wrangling: ETL, cleaning, imputation, outliers handling, data transformation
++ Descriptive statistics:
+  - Univariate analysis
+  - Bivariate analysis
+  - Multivariate analysis
++ Machine learning:
+  - Regression models: Linear models, Random Forest, SVM
+  - Classification models: Logistic Regression, Decision trees, Random Forest
+  - Clustering models: K-MEANS, CLARA, KNN, HCPC, KNN
+  - Dimensionality Reduction: Factorial analysis (PCA, MFA, FAMD), NMDS
+  - Time series analysis: ARIMA, ARCH
+  - Spatial data analysis: Kriging, cokriging, IDW
++ Database & Datawarehouses modeling
 + Data Visualization and Reporting
-  - Tools: Tableau, RShiny, Flexdashboard, Rmarkdown, Jupyter Notebook.
-+ Big data: Cloud computing with Azure, High Performance Computing
-  - HPC cluster: meso@LR
-  - Parallel computing: Parallel, Multidyplr
++ Cloud computing
++ High Performance Computing
++ Parallel computing
 
 # Certificates 
 
@@ -108,7 +105,7 @@ This portfolio showcases a collection of my Data Science and Data Analysis proje
 + [R Package Development​](https://github.com/latsouckfaye/faye-paul.github.io/blob/master/files/Attestation_Formation_RdevPkg.pdf)
 
 ​
-# Projects
+# Some projects
 
 ## Spatial data analysis
 I have developed a suite of utility functions for creating, visualizing, and comparing geomorphological maps. The example below demonstrates the comparison of two maps with differing resolutions, represented by labeled grid cells. To enable comparison, the higher-resolution map is disaggregated to match the resolution of the lower-resolution map, and grid cells are evaluated based on their labels. An agreement score, labeled as "Match" (Yes), is then calculated to quantify the correspondence between the two maps.
