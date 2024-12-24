@@ -80,7 +80,7 @@ This portfolio showcases a collection of my Data Science and Data Analysis proje
   - Bivariate analysis
   - Multivariate analysis
 + Machine learning:
-  - Regression models: Linear and non linear (Logistic, polynomial, neural networks, etc.)
+  - Regression models: Linear and non linear (logistic, polynomial, neural networks, etc.) models
   - Classification models: Logistic Regression, Decision trees, Random Forest
   - Clustering models: K-MEANS, CLARA, KNN, HCPC, KNN
   - Dimensionality Reduction: Factorial analysis (PCA, MFA, FAMD), NMDS
