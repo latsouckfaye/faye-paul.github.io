@@ -1,7 +1,7 @@
 ---
 title: "University of Lille [Details]"
 collection: teaching
-type: "Lectures, tutorials and practical work"
+type: "Courses, tutorials and practical work"
 permalink: /teaching/teach_exp_Lille
 venue: "University of Lille, Site Roubaix"
 date: 2023-11-01 - 2024-08-31 
@@ -12,7 +12,7 @@ location: "Roubaix, France"
 
 ## Course, Tutorials, Practical work
 
-<span style="color:green"> **🎓 Descriptive Statistics** </span>
+<span style="color:green"> **🎓 Descriptive statistics** </span>
 
 Practical Work, BUT - 1st year, Data science
 
@@ -30,7 +30,7 @@ Course and Practical Work, BUT - 2nd year, Data science
 
 Mentorship, BUT - 1st year, Data science
 
-<span style="color:green"> **📊 Hackathon day** </span>
+<span style="color:green"> **📊 Hackathon Day** </span>
 
 Mentorship, BUT - 1st year, Data science
 
