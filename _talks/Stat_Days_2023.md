@@ -1,5 +1,5 @@
 ---
-title: "Automatic geomorphological mapping with coral reef communities data using statistical algorithms"
+title: "Automatic geomorphological mapping with coral reef communities data using statistical algorithms [Details here]"
 collection: talks
 type: "Talk"
 permalink: /talks/Stat_days_2023
