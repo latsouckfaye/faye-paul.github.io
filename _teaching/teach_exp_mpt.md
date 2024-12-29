@@ -8,11 +8,10 @@ date: 2022-01-01
 location: "Montpellier, France"
 ---
 
-# Probability & Statistics 
 
-<span style="color:green"> **Probability (Tutorials)** </span>
+<span style="color:green"> # 🎓 Probability </span>
 
-🎓 Course, Bachelor's, 1st year, Biology
+Course, Bachelor's, 1st year, Biology
 
 <span style="color:green"> **Stochastic Modeling** </span>
 
