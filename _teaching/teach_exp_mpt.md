@@ -16,6 +16,6 @@ Course, Bachelor's, 1st year, Biology
 
 <span style="color:green"> **🎓 Stochastic Modeling** </span>
 
-Practical work session, Bachelor's, 3rd year, Mathematics
+Practical work, Bachelor's, 3rd year, Mathematics
 
 
