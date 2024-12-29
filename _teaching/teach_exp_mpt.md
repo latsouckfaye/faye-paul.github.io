@@ -1,7 +1,7 @@
 ---
 title: "University of Montpellier [Details]"
 collection: teaching
-type: "Tutorials and practical work"
+type: "Course, tutorials and practical work"
 permalink: /teaching/teach_exp_mpt
 venue: "University of Montpellier, IMAG"
 date: 2022-01-01
