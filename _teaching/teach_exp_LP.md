@@ -1,5 +1,5 @@
 ---
-title: "University of Lille [Click here]"
+title: "University of Lille [Details]"
 collection: teaching
 type: "Courses, Tutorials and practical Work"
 permalink: /teaching/teach_exp_LP
