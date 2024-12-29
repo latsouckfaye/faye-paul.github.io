@@ -1,7 +1,7 @@
 ---
 title: "University of Lille [Click here]"
 collection: teaching
-type: "Lectures, Tutorials and Practical Work with Excel"
+type: "Courses, Tutorials and practical Work"
 permalink: /teaching/teach_exp_LP
 venue: "University of Lille, Site Roubaix"
 date: 2024-09-01
@@ -10,9 +10,7 @@ location: "Roubaix, France"
 
 # Descriptive statistics
 
-**Statistical Data Analysis**
+<span style="color:green"> **🎓 Descriptive statistics** </span>
 
-Degree: Professional Bachelor's, 3rd year
-
-Specializations: Management Control,Real Estate, E-commerce, B2B, Procurement and Supply Chain Management, Security, International Law
+Course, tutorial and practical work, Bachelor's, 3rd year, Management Control, Real Estate, E-commerce, B2B, Procurement and Supply Chain Management, Security, International Law
 
