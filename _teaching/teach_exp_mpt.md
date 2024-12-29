@@ -1,5 +1,5 @@
 ---
-title: "University of Montpellier [Click here]"
+title: "University of Montpellier [Details]"
 collection: teaching
 type: "Tutorials and practical work"
 permalink: /teaching/teach_exp_mpt
