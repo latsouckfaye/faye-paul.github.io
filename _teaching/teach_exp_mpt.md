@@ -10,7 +10,7 @@ location: "Montpellier, France"
 
 # Probability & Statistics 
 
-<span style="color:green"> **Probability**</span>.
+<span style="color:green"> **Probability** </span>
 
 Degree: Bachelor's, 1st year
 
@@ -18,7 +18,7 @@ Specialization: Biology
 
 Type: Tutorials
 
-**Stochastic Modeling**
+<span style="color:green"> **Stochastic Modeling** </span>
 
 Degree: Bachelor's, 3rd year
 
