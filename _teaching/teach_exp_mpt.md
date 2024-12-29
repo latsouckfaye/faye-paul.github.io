@@ -10,7 +10,7 @@ location: "Montpellier, France"
 
 # Probability & Statistics 
 
-**Probability**
+<span style="color:blue"> **Probability**</span>.
 
 Degree: Bachelor's, 1st year
 
