@@ -1,5 +1,5 @@
 ---
-title: "Spatial statistics and geomorphological mapping"
+title: "Spatial statistics and geomorphological mapping [Details here]"
 collection: talks
 type: "Talk"
 permalink: /talks/Imag_seminar
