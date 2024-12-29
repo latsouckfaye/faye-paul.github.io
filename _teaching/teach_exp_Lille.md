@@ -8,49 +8,29 @@ date: 2023-11-01 - 2024-08-31
 location: "Roubaix, France"
 ---
 
-# Data science
+# Data science 
 
-**Descriptive Statistics**
+## Course, Tutorials, Practical work
 
-Degree: BUT, 1st year
+<span style="color:green"> **🎓 Descriptive Statistics** </span>
 
-Specialization: Data Science
+Practical Work, BUT - 1st year, Data science
 
-Type: Practical Work
+<span style="color:green"> **🎓 R Programming** </span>
 
-**Statistical Programming with R**
+Course and Practical Work, BUT - 1st year, Data science
 
-Degree: BUT, 1st year
+<span style="color:green"> **🎓 Linear models** </span>
 
-Specialization: Data Science
+Course and Practical Work, BUT - 2nd year, Data science
 
-Type: Lectures, Tutorials, and Practical Work
+## Data Analysis Projects
 
-**Linear Models**
+<span style="color:green"> **📊 Dataviz Challenge Days** </span>
 
-Degree: BUT, 2nd year
+Mentorship, BUT - 1st year, Data science
 
-Specialization: Data Science
+<span style="color:green"> **📊 Hackathon day** </span>
 
-Type: Lectures and Tutorials
-
-**Linear Model Project**
-
-Degree: BUT, 2nd year
-
-Specialization: Data Science
-
-Type: Practical Work
-
-**Dataviz Challenge Days**
-
-Degree: BUT, 1st year
-
-Specialization: Data Science
-
-**Hackathon**
-
-Degree: BUT, 1st year
-
-Specialization: Data Science
+Mentorship, BUT - 1st year, Data science
 
