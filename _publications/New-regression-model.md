@@ -2,7 +2,6 @@
 title: "A novel non parametric regression model for spatial compositional data with zeros integrating both continuous and discrete covariates. [Click here]"
 collection: publications
 permalink: /publication/New-regression-model
-date: 2025
 citation: 'Faye, P.A.L., Brunel, E. and Dabo-Niang S.'
 ---
 
