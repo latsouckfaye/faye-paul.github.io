@@ -5,4 +5,4 @@ permalink: /publication/New-regression-model
 citation: 'Faye, P.A.L., Brunel, E. and Dabo-Niang S.'
 ---
 
-This work introduces a novel nonparametric regression model tailored to compositional data with mixed covariates integrating or not zeros, which includes both continuous and categorical variables and extends its applicability to spatial contexts. 
+This work introduces a novel nonparametric regression model tailored to compositional data with zeros, which includes both continuous and categorical variables and extends its applicability to spatial contexts. 
