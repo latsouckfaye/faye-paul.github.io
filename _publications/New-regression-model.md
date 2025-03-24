@@ -1,11 +1,11 @@
 ---
-title: "Automatic geomorphological mapping using ground truth data with coverage sampling and random forest algorithms. [Click here]"
+title: "A novel non parametric regression model for spatial compositional data that integrates zeros, both continuous and discrete covariates. [Click here]"
 collection: publications
-permalink: /publication/Geomorphology-mapping-2024
+permalink: /publication/New-regression-model
 excerpt: ' '
 date: 2024-06-20
-venue: 'Earth Science Informatics'
-paperurl: 'https://doi.org/10.1007/s12145-024-01347-x'
+venue: ' '
+paperurl: ' '
 citation: 'Faye, P.A.L., Brunel, E., Claverie, T. et al. Automatic geomorphological mapping using ground truth data with coverage sampling and random forest algorithms. Earth Sci Inform 17, 3715–3732 (2024)'
 ---
 
