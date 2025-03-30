@@ -5,11 +5,11 @@ This portfolio showcases a collection of my Data Science and Data Analysis proje
 
 # Skills
 + Data wrangling: ETL, cleaning, imputation, outliers handling, data transformation
-+ Descriptive statistics: Uni, bi, multivariate analyses
-+ Dimensionality Reduction: Factorial analysis (PCA, MFA, FAMD, NMDS, etc.)
-+ Time series analysis (ARIMA, ARCH, GARCH, etc.)
++ Descriptive statistics: (Uni, bi, multi)-variate analyses
++ Dimensionality reduction: PCA, MFA, FAMD, NMDS, etc.
++ Time series analysis: ARIMA, ARCH, GARCH, etc.
 + Spatial data analysis: Kriging, cokriging, IDW
-+ Machine and Deeep learning: Regression (linear, logistic, polynomial, neural networks, etc.), Classification (Logistic Regression, Decision trees, Random Forest, SVM), Clustering (K-MEANS, CLARA, KNN, HCPC, KNN), Neural Networks, etc. 
++ Machine and Deep learning: Regression (linear, logistic, polynomial, neural networks, etc.), Classification (Logistic, Decision trees, Random Forest, etc.), Clustering (K-MEANS, CLARA, KNN, CAH, HCPC), Neural Networks, etc. 
 + Data Visualization and Reporting
 + Cloud computing, High Performance Computing, Parallel computing
 
