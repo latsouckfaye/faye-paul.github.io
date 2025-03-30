@@ -1,7 +1,7 @@
 ---
 title: "Portfolio [Click]"
 ---
-
+This portfolio showcases a collection of my Data Science and Data Analysis projects completed through academic pursuits, self-learning, and personal interests. It also highlights my achievements, skills, and certifications, with regular updates to reflect my latest work.
 # Stack
 
 <table style="color: #000; background-color:#fff">
@@ -74,22 +74,13 @@ title: "Portfolio [Click]"
 
 # Skills
 + Data wrangling: ETL, cleaning, imputation, outliers handling, data transformation
-+ Descriptive statistics:
-  - Univariate analysis
-  - Bivariate analysis
-  - Multivariate analysis
-+ Machine learning:
-  - Regression models: Linear and non linear (logistic, polynomial, neural networks, etc.) models
-  - Classification models: Logistic Regression, Decision trees, Random Forest
-  - Clustering models: K-MEANS, CLARA, KNN, HCPC, KNN
-  - Dimensionality Reduction: Factorial analysis (PCA, MFA, FAMD), NMDS
-  - Time series analysis: ARIMA, ARCH, GARCH, 
-  - Spatial data analysis: Kriging, cokriging, IDW
-+ Database & Datawarehouses modeling
++ Descriptive statistics: Uni, bi, multivariate analyses
++ Dimensionality Reduction: Factorial analysis (PCA, MFA, FAMD, NMDS, etc.)
++ Time series analysis (ARIMA, ARCH, GARCH, etc.)
++ Spatial data analysis: Kriging, cokriging, IDW
++ Machine and Deeep learning: Regression (linear, logistic, polynomial, neural networks, etc.), Classification (Logistic Regression, Decision trees, Random Forest, SVM), Clustering (K-MEANS, CLARA, KNN, HCPC, KNN), Neural Networks, etc. 
 + Data Visualization and Reporting
-+ Cloud computing
-+ High Performance Computing
-+ Parallel computing
++ Cloud computing, High Performance Computing, Parallel computing
 
 # Certificates 
 
